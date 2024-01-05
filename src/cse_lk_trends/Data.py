@@ -7,12 +7,12 @@ from functools import cache
 
 from utils import JSONFile, Log
 
-DIR_DATA = os.path.join('data')
-DIR_DATA_RAW = os.path.join(DIR_DATA, 'raw')
-DATA_PATH = os.path.join(DIR_DATA, 'data.json')
 DATETIME_FORMAT = '%Y-%m-%d'
 
 log = Log('Data')
+
+DIR_DATA = os.path.join('data')
+DIR_DATA_RAW = os.path.join(DIR_DATA, 'raw')
 
 
 def parse_float(x):
@@ -27,49 +27,51 @@ def parse_float(x):
 
 @dataclass
 class Data:
-    date: datetime
+    date_start: datetime
+    date_end: datetime
     price_close: float
     price_open: float
     price_high: float
     price_low: float
     volume_m: float
-    change: float
 
     def to_dict(self) -> dict:
         return {
-            'date': self.date.strftime(DATETIME_FORMAT),
+            'date_start': self.date_start.strftime(DATETIME_FORMAT),
+            'date_end': self.date_end.strftime(DATETIME_FORMAT),
             'price_close': self.price_close,
             'price_open': self.price_open,
             'price_high': self.price_high,
             'price_low': self.price_low,
             'volume_m': self.volume_m,
-            'change': self.change,
         }
 
-    @staticmethod
-    def from_dict(d: dict) -> 'Data':
-        return Data(
-            date=datetime.strptime(d['date'], DATETIME_FORMAT),
+    @classmethod
+    def from_dict(cls, d: dict):
+        return cls(
+            date_start=datetime.strptime(d['date_start'], DATETIME_FORMAT),
+            date_end=datetime.strptime(d['date_end'], DATETIME_FORMAT),
             price_close=d['price_close'],
             price_open=d['price_open'],
             price_high=d['price_high'],
             price_low=d['price_low'],
             volume_m=d['volume_m'],
-            change=d['change'],
         )
 
     @property
     def year(self) -> datetime:
-        return datetime.strptime(self.date.strftime('%Y'), '%Y')
+        return datetime.strptime(self.date_start.strftime('%Y'), '%Y')
 
     @property
     def month(self) -> datetime:
-        return datetime.strptime(self.date.strftime('%Y-%m'), '%Y-%m')
+        return datetime.strptime(self.date_start.strftime('%Y-%m'), '%Y-%m')
+
+    @property
+    def change(self) -> float:
+        return (self.price_close - self.price_open) / self.price_open
 
     @staticmethod
-    def group_by(
-        data_list: list['Data'], func_data_to_date: callable
-    ) -> dict:
+    def group_by(data_list: list, func_data_to_date: callable) -> dict:
         date_to_data = {}
         for data in data_list:
             date = func_data_to_date(data)
@@ -78,42 +80,37 @@ class Data:
             date_to_data[date].append(data)
         return date_to_data
 
-    @staticmethod
-    def aggregate(date: datetime, data_list: list['Data']) -> 'Data':
+    @classmethod
+    def aggregate(cls, data_list: list):
+        data_list = sorted(data_list, key=lambda x: x.date_start)
+        date_start = data_list[0].date_start
+        date_end = data_list[-1].date_end
         price_close = data_list[-1].price_close
         price_open = data_list[0].price_open
         price_high = max([d.price_high for d in data_list])
         price_low = min([d.price_low for d in data_list])
         volume_m = sum([d.volume_m for d in data_list])
-        change = (price_close - price_open) / price_open
-        return Data(
-            date=date,
+
+        return cls(
+            date_start=date_start,
+            date_end=date_end,
             price_close=price_close,
             price_open=price_open,
             price_high=price_high,
             price_low=price_low,
             volume_m=volume_m,
-            change=change,
         )
 
-    @staticmethod
-    def list_all_aggr(
-        label: str, func_data_to_date: callable
-    ) -> list['Data']:
-        data_list = Data.list_all()
-        date_to_data = Data.group_by(data_list, func_data_to_date)
-        aggr_data_list = [
-            Data.aggregate(x[0], x[1]) for x in date_to_data.items()
-        ]
-        path = os.path.join(DIR_DATA, f'data.{label}.json')
-        JSONFile(path).write([d.to_dict() for d in aggr_data_list])
-        log.info(f'Wrote {len(aggr_data_list)} data to {path}')
-        return aggr_data_list
+    @classmethod
+    def get_id(cls) -> str:
+        raise NotImplementedError
 
-    @staticmethod
-    def list_all_nocache() -> list['Data']:
+    @classmethod
+    def list_all_nocache(cls) -> list:
         data_list = []
         for file in os.listdir(DIR_DATA_RAW):
+            if not file.startswith(cls.get_id()):
+                continue
             file_path = os.path.join(DIR_DATA_RAW, file)
             csv_reader = csv.reader(
                 open(file_path, newline=''), delimiter=','
@@ -130,7 +127,7 @@ class Data:
                     price_high,
                     price_low,
                     volume_m,
-                    change,
+                    ___,  # change
                 ) = row
                 date = datetime.strptime(date, '%m/%d/%Y')
                 price_close = parse_float(price_close)
@@ -138,36 +135,46 @@ class Data:
                 price_high = parse_float(price_high)
                 price_low = parse_float(price_low)
                 volume_m = parse_float(volume_m[:-1])
-                change = parse_float(change) / 100.0
-                data = Data(
-                    date,
+                data = cls(
+                    date,  # date_start
+                    date,  # date_end
                     price_close,
                     price_open,
                     price_high,
                     price_low,
                     volume_m,
-                    change,
                 )
                 data_list.append(data)
-        data_list = sorted(data_list, key=lambda x: x.date)
+        data_list = sorted(data_list, key=lambda x: x.date_start)
         return data_list
 
-    @staticmethod
+    @classmethod
+    def get_data_path(cls) -> str:
+        return os.path.join(DIR_DATA, f'{cls.get_id()}.data.json')
+
+    @classmethod
     @cache
-    def list_all() -> list['Data']:
-        json_file = JSONFile(DATA_PATH)
+    def list_all(cls) -> list:
+        data_path = cls.get_data_path()
+        json_file = JSONFile(data_path)
         if json_file.exists:
-            data_list = [Data.from_dict(d) for d in json_file.read()]
-            log.info(f'Read {len(data_list)} data from {DATA_PATH}')
+            data_list = [cls.from_dict(d) for d in json_file.read()]
+            log.info(f'Read {len(data_list)} data from {data_path}')
             return data_list
 
-        data_list = Data.list_all_nocache()
+        data_list = cls.list_all_nocache()
         json_file.write([d.to_dict() for d in data_list])
-        log.info(f'Wrote {len(data_list)} data to {DATA_PATH}')
+        log.info(f'Wrote {len(data_list)} data to {data_path}')
         return data_list
 
+    @classmethod
+    def list_all_aggr(cls, label: str, func_data_to_date: callable) -> list:
+        data_list = cls.list_all()
+        date_to_data = cls.group_by(data_list, func_data_to_date)
+        aggr_data_list = [cls.aggregate(x[1]) for x in date_to_data.items()]
+        return aggr_data_list
 
-if __name__ == '__main__':
-    Data.list_all()
-    Data.list_all_aggr('by_year', lambda d: d.year)
-    Data.list_all_aggr('by_month', lambda d: d.month)
+    @classmethod
+    def idx_by_date(cls) -> dict:
+        data_list = cls.list_all()
+        return {d.date: d for d in data_list}

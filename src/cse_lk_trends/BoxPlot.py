@@ -2,7 +2,7 @@ import os
 
 from utils import Log, _
 
-from cse_lk_trends.Data import Data
+from cse_lk_trends.DataCSEASPI import DataCSEASPI
 
 DIR_CHARTS = 'charts'
 
@@ -31,7 +31,7 @@ class Style:
 
 
 class BoxPlot:
-    def __init__(self, data_list: list[Data]):
+    def __init__(self, data_list: list[DataCSEASPI]):
         self.data_list = data_list
 
     @property
@@ -46,12 +46,12 @@ class BoxPlot:
         return group_to_data_list
 
     @staticmethod
-    def box(i: int, j: int, data: Data):
+    def box(i: int, j: int, data: DataCSEASPI):
         x = Style.DIM_X * (i + 1)
         y = Style.DIM_Y * (Style.N_GROUPS_Y - j)
         width = Style.DIM_X
         height = Style.DIM_Y
-        year = int(data.date.strftime('%Y'))
+        year = int(data.date_start.strftime('%Y'))
 
         fill = BoxPlot.get_val_color(data.change)
         return _(
@@ -187,5 +187,5 @@ class BoxPlot:
 
 
 if __name__ == '__main__':
-    data_list = Data.list_all_aggr('by_year', lambda d: d.year)
+    data_list = DataCSEASPI.list_all_aggr('by_year', lambda d: d.year)
     BoxPlot(data_list).write(os.path.join(DIR_CHARTS, 'box_plot.svg'))
