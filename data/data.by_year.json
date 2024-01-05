@@ -1,0 +1,272 @@
+[
+  {
+    "date": "1994-01-01",
+    "price_close": 986.73,
+    "price_open": 987.25,
+    "price_high": 1378.82,
+    "price_low": 906.2,
+    "volume_m": 25640.660000000003,
+    "change": -0.000526715624208642
+  },
+  {
+    "date": "1995-01-01",
+    "price_close": 663.73,
+    "price_open": 990.28,
+    "price_high": 1042.7,
+    "price_low": 630.9,
+    "volume_m": 81831.18000000001,
+    "change": -0.32975522074564767
+  },
+  {
+    "date": "1996-01-01",
+    "price_close": 602.97,
+    "price_open": 662.7,
+    "price_high": 708.9,
+    "price_low": 551.9,
+    "volume_m": 87426.13000000003,
+    "change": -0.09013128112267997
+  },
+  {
+    "date": "1997-01-01",
+    "price_close": 702.2,
+    "price_open": 606.7,
+    "price_high": 869.7,
+    "price_low": 606.7,
+    "volume_m": 44059.28,
+    "change": 0.1574089335750783
+  },
+  {
+    "date": "1998-01-01",
+    "price_close": 597.3,
+    "price_open": 707.7,
+    "price_high": 789.7,
+    "price_low": 461.0,
+    "volume_m": 38502.75000000001,
+    "change": -0.155998304366257
+  },
+  {
+    "date": "1999-01-01",
+    "price_close": 572.5,
+    "price_open": 597.3,
+    "price_high": 603.1,
+    "price_low": 511.93,
+    "volume_m": 54956.439999999995,
+    "change": -0.041520174116859127
+  },
+  {
+    "date": "2000-01-01",
+    "price_close": 447.6,
+    "price_open": 572.61,
+    "price_high": 574.26,
+    "price_low": 427.62,
+    "volume_m": 57720.72999999997,
+    "change": -0.21831613139833392
+  },
+  {
+    "date": "2001-01-01",
+    "price_close": 621.0,
+    "price_open": 447.64,
+    "price_high": 694.37,
+    "price_low": 382.41,
+    "volume_m": 56974.67000000002,
+    "change": 0.38727548923241895
+  },
+  {
+    "date": "2002-01-01",
+    "price_close": 815.1,
+    "price_open": 621.36,
+    "price_high": 864.1,
+    "price_low": 548.66,
+    "volume_m": 11775.06,
+    "change": 0.31179992275009655
+  },
+  {
+    "date": "2003-01-01",
+    "price_close": 1062.1,
+    "price_open": 814.93,
+    "price_high": 1438.31,
+    "price_low": 696.74,
+    "volume_m": 11115.199999999993,
+    "change": 0.3033021241088191
+  },
+  {
+    "date": "2004-01-01",
+    "price_close": 1506.89,
+    "price_open": 1062.11,
+    "price_high": 1650.01,
+    "price_low": 1016.66,
+    "volume_m": 2752.000000000001,
+    "change": 0.41877018387925946
+  },
+  {
+    "date": "2005-01-01",
+    "price_close": 1922.21,
+    "price_open": 1506.89,
+    "price_high": 2568.22,
+    "price_low": 1391.42,
+    "volume_m": 5128.2599999999975,
+    "change": 0.27561401296710436
+  },
+  {
+    "date": "2006-01-01",
+    "price_close": 2722.36,
+    "price_open": 1922.21,
+    "price_high": 2829.88,
+    "price_low": 1783.48,
+    "volume_m": 3912.29,
+    "change": 0.41626565255617237
+  },
+  {
+    "date": "2007-01-01",
+    "price_close": 2540.99,
+    "price_open": 2722.36,
+    "price_high": 3038.48,
+    "price_low": 2336.78,
+    "volume_m": 2887.1900000000014,
+    "change": -0.06662234237940623
+  },
+  {
+    "date": "2008-01-01",
+    "price_close": 1503.02,
+    "price_open": 2540.99,
+    "price_high": 2691.42,
+    "price_low": 1476.56,
+    "volume_m": 3154.870000000001,
+    "change": -0.4084903915403051
+  },
+  {
+    "date": "2009-01-01",
+    "price_close": 3385.55,
+    "price_open": 1503.02,
+    "price_high": 3390.31,
+    "price_low": 1500.46,
+    "volume_m": 4826.34,
+    "change": 1.2524983034157897
+  },
+  {
+    "date": "2010-01-01",
+    "price_close": 6635.87,
+    "price_open": 3385.66,
+    "price_high": 7275.79,
+    "price_low": 3384.21,
+    "volume_m": 18668.910000000007,
+    "change": 0.9599930294241005
+  },
+  {
+    "date": "2011-01-01",
+    "price_close": 6074.42,
+    "price_open": 6635.87,
+    "price_high": 7863.74,
+    "price_low": 5686.14,
+    "volume_m": 24559.349999999988,
+    "change": -0.08460834826480926
+  },
+  {
+    "date": "2012-01-01",
+    "price_close": 5643.0,
+    "price_open": 6074.52,
+    "price_high": 6108.77,
+    "price_low": 4725.57,
+    "volume_m": 9691.230000000003,
+    "change": -0.07103771162165906
+  },
+  {
+    "date": "2013-01-01",
+    "price_close": 5912.78,
+    "price_open": 5643.0,
+    "price_high": 6528.11,
+    "price_low": 5604.59,
+    "volume_m": 9054.16,
+    "change": 0.04780790359737724
+  },
+  {
+    "date": "2014-01-01",
+    "price_close": 7298.95,
+    "price_open": 5913.48,
+    "price_high": 7562.52,
+    "price_low": 5827.72,
+    "volume_m": 16721.5,
+    "change": 0.23429013034625978
+  },
+  {
+    "date": "2015-01-01",
+    "price_close": 6894.5,
+    "price_open": 7300.29,
+    "price_high": 7670.98,
+    "price_low": 6760.04,
+    "volume_m": 9414.640000000001,
+    "change": -0.05558546304324896
+  },
+  {
+    "date": "2016-01-01",
+    "price_close": 6228.26,
+    "price_open": 6894.81,
+    "price_high": 6912.11,
+    "price_low": 5802.02,
+    "volume_m": 7208.940000000003,
+    "change": -0.09667416506038602
+  },
+  {
+    "date": "2017-01-01",
+    "price_close": 6369.26,
+    "price_open": 6227.24,
+    "price_high": 6769.51,
+    "price_low": 5968.24,
+    "volume_m": 8468.28,
+    "change": 0.022806251244532158
+  },
+  {
+    "date": "2018-01-01",
+    "price_close": 6052.37,
+    "price_open": 6368.05,
+    "price_high": 6604.92,
+    "price_low": 5758.01,
+    "volume_m": 6000.740000000004,
+    "change": -0.049572475090490856
+  },
+  {
+    "date": "2019-01-01",
+    "price_close": 6129.21,
+    "price_open": 6051.3,
+    "price_high": 6239.32,
+    "price_low": 5192.63,
+    "volume_m": 7221.669999999998,
+    "change": 0.01287491943879825
+  },
+  {
+    "date": "2020-01-01",
+    "price_close": 6774.22,
+    "price_open": 6134.44,
+    "price_high": 6778.87,
+    "price_low": 4219.03,
+    "volume_m": 21348.710000000006,
+    "change": 0.1042931384119823
+  },
+  {
+    "date": "2021-01-01",
+    "price_close": 12226.01,
+    "price_open": 6797.61,
+    "price_high": 12238.75,
+    "price_low": 6774.22,
+    "volume_m": 55872.14,
+    "change": 0.7985747931993746
+  },
+  {
+    "date": "2022-01-01",
+    "price_close": 8502.49,
+    "price_open": 12225.17,
+    "price_high": 13593.04,
+    "price_low": 6724.39,
+    "volume_m": 26912.82999999999,
+    "change": -0.304509466944018
+  },
+  {
+    "date": "2023-01-01",
+    "price_close": 10654.16,
+    "price_open": 8489.66,
+    "price_high": 11750.97,
+    "price_low": 8254.25,
+    "volume_m": 14822.279999999988,
+    "change": 0.2549572067668199
+  }
+]
