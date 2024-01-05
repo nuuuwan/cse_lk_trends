@@ -10,7 +10,7 @@ log = Log('BoxPlot')
 
 
 class Style:
-    WIDTH = 800
+    WIDTH = 1200
     HEIGHT = int(WIDTH * 9 / 16)
 
     SPAN = 0.1
@@ -27,7 +27,7 @@ class Style:
 
     class FONT:
         FAMILY = 'P22 Johnston Underground'
-        SIZE = 14
+        SIZE = 21
 
 
 class BoxPlot:
@@ -38,7 +38,7 @@ class BoxPlot:
     def group_to_data_list(self):
         group_to_data_list = {}
         for data in self.data_list:
-            group = int((data.change - Style.MIN_VAL) / Style.SPAN)
+            group = int((data.change_usd - Style.MIN_VAL) / Style.SPAN)
             if group not in group_to_data_list:
                 group_to_data_list[group] = []
             group_to_data_list[group].append(data)
@@ -53,7 +53,7 @@ class BoxPlot:
         height = Style.DIM_Y
         year = int(data.date_start.strftime('%Y'))
 
-        fill = BoxPlot.get_val_color(data.change)
+        fill = BoxPlot.get_val_color(data.change_usd)
         return _(
             'g',
             [
@@ -148,7 +148,7 @@ class BoxPlot:
                 ),
                 _(
                     'text',
-                    'Performance by Year',
+                    'Performance by Year - USD adjusted',
                     dict(
                         x=Style.WIDTH / 2,
                         y=Style.DIM_Y + Style.FONT.SIZE * 2,
@@ -187,5 +187,5 @@ class BoxPlot:
 
 
 if __name__ == '__main__':
-    data_list = DataCSEASPI.list_all_aggr('by_year', lambda d: d.year)
+    data_list = DataCSEASPI.list_all_aggr(lambda d: d.year)
     BoxPlot(data_list).write(os.path.join(DIR_CHARTS, 'box_plot.svg'))

@@ -3,7 +3,7 @@ import csv
 import os
 from dataclasses import dataclass
 from datetime import datetime
-from functools import cache
+from functools import cache, cached_property
 
 from utils import JSONFile, Log
 
@@ -58,15 +58,15 @@ class Data:
             volume_m=d['volume_m'],
         )
 
-    @property
+    @cached_property
     def year(self) -> datetime:
         return datetime.strptime(self.date_start.strftime('%Y'), '%Y')
 
-    @property
+    @cached_property
     def month(self) -> datetime:
         return datetime.strptime(self.date_start.strftime('%Y-%m'), '%Y-%m')
 
-    @property
+    @cached_property
     def change(self) -> float:
         return (self.price_close - self.price_open) / self.price_open
 
@@ -168,13 +168,15 @@ class Data:
         return data_list
 
     @classmethod
-    def list_all_aggr(cls, label: str, func_data_to_date: callable) -> list:
+    @cache
+    def list_all_aggr(cls, func_data_to_date: callable) -> list:
         data_list = cls.list_all()
         date_to_data = cls.group_by(data_list, func_data_to_date)
         aggr_data_list = [cls.aggregate(x[1]) for x in date_to_data.items()]
         return aggr_data_list
 
     @classmethod
+    @cache
     def idx_by_date(cls) -> dict:
         data_list = cls.list_all()
-        return {d.date: d for d in data_list}
+        return {d.date_start: d for d in data_list}
