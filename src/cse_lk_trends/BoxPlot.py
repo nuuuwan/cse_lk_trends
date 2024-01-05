@@ -13,21 +13,22 @@ class Style:
     WIDTH = 1200
     HEIGHT = int(WIDTH * 9 / 16)
 
-    SPAN = 0.1
+    SPAN = 0.02
 
-    MIN_VAL = -0.6
-    MAX_VAL = 1.3
+    MIN_VAL = -0.24
+    MAX_VAL = 0.25
     N_GROUPS = int((MAX_VAL - MIN_VAL) / SPAN) + 1
     DIM_X = int(WIDTH / (N_GROUPS + 3))
-    DIM_Y = DIM_X
-    N_GROUPS_Y = 10.5
+    DIM_Y = DIM_X * 0.25
+    N_GROUPS_Y = 61
 
     class COLOR:
         BACKGROUND = '#f8f8f8'
 
     class FONT:
-        FAMILY = 'P22 Johnston Underground'
-        SIZE = 21
+        # FAMILY = 'P22 Johnston Underground'
+        FAMILY = 'monospace'
+        SIZE = 12
 
 
 class BoxPlot:
@@ -38,7 +39,7 @@ class BoxPlot:
     def group_to_data_list(self):
         group_to_data_list = {}
         for data in self.data_list:
-            group = int((data.change_usd - Style.MIN_VAL) / Style.SPAN)
+            group = int((data.change_plot - Style.MIN_VAL) / Style.SPAN)
             if group not in group_to_data_list:
                 group_to_data_list[group] = []
             group_to_data_list[group].append(data)
@@ -51,9 +52,8 @@ class BoxPlot:
         y = Style.DIM_Y * (Style.N_GROUPS_Y - j)
         width = Style.DIM_X
         height = Style.DIM_Y
-        year = int(data.date_start.strftime('%Y'))
 
-        fill = BoxPlot.get_val_color(data.change_usd)
+        fill = BoxPlot.get_val_color(data.change_plot)
         return _(
             'g',
             [
@@ -66,19 +66,19 @@ class BoxPlot:
                         width=width,
                         height=height,
                         fill=fill,
-                        stroke="#000",
+                        stroke=None,
                     ),
                 ),
                 _(
                     'text',
-                    str(year),
+                    data.date_str,
                     dict(
                         x=x + width / 2,
-                        y=y + height * 0.6,
+                        y=y + height * 0.75,
                         fill='#000',
                         text_anchor="middle",
                         font_family=Style.FONT.FAMILY,
-                        font_size=Style.FONT.SIZE,
+                        font_size=Style.FONT.SIZE * 0.8,
                     ),
                 ),
             ],
@@ -108,7 +108,7 @@ class BoxPlot:
     @staticmethod
     def x_axis_label(i: int):
         x = Style.DIM_X * (i + 1)
-        y = Style.DIM_Y * (Style.N_GROUPS_Y + 1.5)
+        y = Style.DIM_Y * (Style.N_GROUPS_Y + 2.5)
         val = Style.MIN_VAL + i * Style.SPAN
         val_str = f'{val:.0%}'
         if val > Style.SPAN / 2:
@@ -125,7 +125,7 @@ class BoxPlot:
                 fill=fill,
                 text_anchor="middle",
                 font_family=Style.FONT.FAMILY,
-                font_size=Style.FONT.SIZE * 0.8,
+                font_size=Style.FONT.SIZE,
             ),
         )
 
@@ -139,7 +139,7 @@ class BoxPlot:
                     'Colombo Stock Exchange (CSE) - All Share Index (ASPI)',
                     dict(
                         x=Style.WIDTH / 2,
-                        y=Style.DIM_Y,
+                        y=Style.DIM_Y * 3,
                         fill="#000",
                         text_anchor="middle",
                         font_family=Style.FONT.FAMILY,
@@ -148,10 +148,10 @@ class BoxPlot:
                 ),
                 _(
                     'text',
-                    'Performance by Year - USD adjusted',
+                    'Performance by Month',
                     dict(
                         x=Style.WIDTH / 2,
-                        y=Style.DIM_Y + Style.FONT.SIZE * 2,
+                        y=Style.DIM_Y * 3 + Style.FONT.SIZE * 2,
                         fill="#000",
                         text_anchor="middle",
                         font_family=Style.FONT.FAMILY,
@@ -187,5 +187,5 @@ class BoxPlot:
 
 
 if __name__ == '__main__':
-    data_list = DataCSEASPI.list_all_aggr(lambda d: d.year)
+    data_list = DataCSEASPI.list_all_aggr(lambda d: d.month)
     BoxPlot(data_list).write(os.path.join(DIR_CHARTS, 'box_plot.svg'))

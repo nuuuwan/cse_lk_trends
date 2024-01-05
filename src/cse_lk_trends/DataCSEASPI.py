@@ -33,3 +33,7 @@ class DataCSEASPI(Data):
         return (
             self.price_close_usd - self.price_open_usd
         ) / self.price_open_usd
+
+    @cached_property
+    def change_plot(self) -> float:
+        return self.change

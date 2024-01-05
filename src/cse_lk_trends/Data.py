@@ -67,6 +67,17 @@ class Data:
         return datetime.strptime(self.date_start.strftime('%Y-%m'), '%Y-%m')
 
     @cached_property
+    def date_str(self) -> str:
+        date_format = '%Y%b%d'
+        date_str_start = self.date_start.strftime(date_format)
+        date_str_end = self.date_end.strftime(date_format)
+        n = len(date_str_start)
+        for i in range(n, 0, -1):
+            if date_str_start[:i] == date_str_end[:i]:
+                return date_str_start[:i][2:].upper()
+        return ''
+
+    @cached_property
     def change(self) -> float:
         return (self.price_close - self.price_open) / self.price_open
 

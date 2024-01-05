@@ -2,148 +2,1470 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675">
   <rect x="0" y="0" width="1200" height="675" fill="#f8f8f8"/>
   <g>
-    <rect x="54" y="567.0" width="54" height="54" fill="hsl(-1.2866368255423468,100%,40%)" stroke="#000"/>
-    <text x="81.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2022</text>
+    <rect x="42" y="640.5" width="42" height="10.5" fill="hsl(2.7354746753327954,100%,40%)" stroke="None"/>
+    <text x="63.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22MAR</text>
   </g>
-  <text x="54" y="648.0" fill="hsl(0.0,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">-60%</text>
+  <text x="42" y="666.75" fill="hsl(0.0,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-24%</text>
+  <text x="84" y="666.75" fill="hsl(6.122448979591834,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-22%</text>
   <g>
-    <rect x="108" y="567.0" width="54" height="54" fill="hsl(13.313243200030264,100%,40%)" stroke="#000"/>
-    <text x="135.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2008</text>
+    <rect x="126" y="640.5" width="42" height="10.5" fill="hsl(17.635964239132605,100%,40%)" stroke="None"/>
+    <text x="147.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20MAR</text>
   </g>
-  <text x="108" y="648.0" fill="hsl(7.894736842105262,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">-50%</text>
+  <text x="126" y="666.75" fill="hsl(12.244897959183676,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-20%</text>
   <g>
-    <rect x="162" y="567.0" width="54" height="54" fill="hsl(16.998216972492767,100%,40%)" stroke="#000"/>
-    <text x="189.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">1995</text>
-  </g>
-  <g>
-    <rect x="162" y="513.0" width="54" height="54" fill="hsl(22.29769170085944,100%,40%)" stroke="#000"/>
-    <text x="189.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2000</text>
-  </g>
-  <text x="162" y="648.0" fill="hsl(15.789473684210527,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">-40%</text>
-  <g>
-    <rect x="216" y="567.0" width="54" height="54" fill="hsl(28.631076916302295,100%,40%)" stroke="#000"/>
-    <text x="243.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">1998</text>
+    <rect x="168" y="640.5" width="42" height="10.5" fill="hsl(23.30906738959911,100%,40%)" stroke="None"/>
+    <text x="189.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98AUG</text>
   </g>
   <g>
-    <rect x="216" y="513.0" width="54" height="54" fill="hsl(31.414123240995284,100%,40%)" stroke="#000"/>
-    <text x="243.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2018</text>
+    <rect x="168" y="630.0" width="42" height="10.5" fill="hsl(24.0282473492961,100%,40%)" stroke="None"/>
+    <text x="189.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05DEC</text>
   </g>
-  <text x="216" y="648.0" fill="hsl(23.68421052631579,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">-30%</text>
+  <text x="168" y="666.75" fill="hsl(18.36734693877551,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-18%</text>
   <g>
-    <rect x="270" y="567.0" width="54" height="54" fill="hsl(36.55547853097582,100%,40%)" stroke="#000"/>
-    <text x="297.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">1996</text>
-  </g>
-  <g>
-    <rect x="270" y="513.0" width="54" height="54" fill="hsl(38.81708592025743,100%,40%)" stroke="#000"/>
-    <text x="297.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2011</text>
+    <rect x="210" y="640.5" width="42" height="10.5" fill="hsl(30.379587822056504,100%,40%)" stroke="None"/>
+    <text x="231.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95FEB</text>
   </g>
   <g>
-    <rect x="270" y="459.0" width="54" height="54" fill="hsl(33.834730647256954,100%,40%)" stroke="#000"/>
-    <text x="297.0" y="491.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2012</text>
+    <rect x="210" y="630.0" width="42" height="10.5" fill="hsl(28.066602566808832,100%,40%)" stroke="None"/>
+    <text x="231.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03NOV</text>
   </g>
   <g>
-    <rect x="270" y="405.0" width="54" height="54" fill="hsl(36.28657960544819,100%,40%)" stroke="#000"/>
-    <text x="297.0" y="437.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2015</text>
+    <rect x="210" y="619.5" width="42" height="10.5" fill="hsl(27.638044658921107,100%,40%)" stroke="None"/>
+    <text x="231.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08OCT</text>
   </g>
   <g>
-    <rect x="270" y="351.0" width="54" height="54" fill="hsl(37.110727335181394,100%,40%)" stroke="#000"/>
-    <text x="297.0" y="383.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2016</text>
-  </g>
-  <text x="270" y="648.0" fill="hsl(31.578947368421055,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">-20%</text>
-  <g>
-    <rect x="324" y="567.0" width="54" height="54" fill="hsl(46.94518994220802,100%,40%)" stroke="#000"/>
-    <text x="351.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">1994</text>
+    <rect x="210" y="609.0" width="42" height="10.5" fill="hsl(29.96060903836555,100%,40%)" stroke="None"/>
+    <text x="231.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21FEB</text>
   </g>
   <g>
-    <rect x="324" y="513.0" width="54" height="54" fill="hsl(40.815030352818816,100%,40%)" stroke="#000"/>
-    <text x="351.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">1999</text>
+    <rect x="210" y="598.5" width="42" height="10.5" fill="hsl(29.502125686059404,100%,40%)" stroke="None"/>
+    <text x="231.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22APR</text>
+  </g>
+  <text x="210" y="666.75" fill="hsl(24.489795918367353,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-16%</text>
+  <g>
+    <rect x="252" y="640.5" width="42" height="10.5" fill="hsl(31.62127095366076,100%,40%)" stroke="None"/>
+    <text x="273.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94MAR</text>
   </g>
   <g>
-    <rect x="324" y="459.0" width="54" height="54" fill="hsl(41.430550664512026,100%,40%)" stroke="#000"/>
-    <text x="351.0" y="491.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2007</text>
+    <rect x="252" y="630.0" width="42" height="10.5" fill="hsl(36.09727337609171,100%,40%)" stroke="None"/>
+    <text x="273.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94APR</text>
   </g>
   <g>
-    <rect x="324" y="405.0" width="54" height="54" fill="hsl(47.19624693495731,100%,40%)" stroke="#000"/>
-    <text x="351.0" y="437.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2017</text>
-  </g>
-  <text x="324" y="648.0" fill="hsl(39.473684210526315,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">-10%</text>
-  <g>
-    <rect x="378" y="567.0" width="54" height="54" fill="hsl(52.36711118906565,100%,40%)" stroke="#000"/>
-    <text x="405.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">1997</text>
+    <rect x="252" y="619.5" width="42" height="10.5" fill="hsl(31.83642457869557,100%,40%)" stroke="None"/>
+    <text x="273.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98MAY</text>
   </g>
   <g>
-    <rect x="378" y="513.0" width="54" height="54" fill="hsl(49.15057876279889,100%,40%)" stroke="#000"/>
-    <text x="405.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2013</text>
+    <rect x="252" y="609.0" width="42" height="10.5" fill="hsl(33.47464097880993,100%,40%)" stroke="None"/>
+    <text x="273.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98JUN</text>
   </g>
   <g>
-    <rect x="378" y="459.0" width="54" height="54" fill="hsl(49.0792411090695,100%,40%)" stroke="#000"/>
-    <text x="405.0" y="491.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2019</text>
+    <rect x="252" y="598.5" width="42" height="10.5" fill="hsl(36.54729473472856,100%,40%)" stroke="None"/>
+    <text x="273.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00NOV</text>
   </g>
   <g>
-    <rect x="378" y="405.0" width="54" height="54" fill="hsl(53.92915645726352,100%,40%)" stroke="#000"/>
-    <text x="405.0" y="437.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2020</text>
+    <rect x="252" y="588.0" width="42" height="10.5" fill="hsl(32.506109510817254,100%,40%)" stroke="None"/>
+    <text x="273.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22OCT</text>
   </g>
-  <text x="378" y="648.0" fill="hsl(47.36842105263158,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">0%</text>
-  <text x="432" y="648.0" fill="hsl(55.26315789473685,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+10%</text>
+  <text x="252" y="666.75" fill="hsl(30.612244897959183,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-14%</text>
   <g>
-    <rect x="486" y="567.0" width="54" height="54" fill="hsl(65.6363256673482,100%,40%)" stroke="#000"/>
-    <text x="513.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2001</text>
-  </g>
-  <g>
-    <rect x="486" y="513.0" width="54" height="54" fill="hsl(68.12470808741337,100%,40%)" stroke="#000"/>
-    <text x="513.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2002</text>
+    <rect x="294" y="640.5" width="42" height="10.5" fill="hsl(41.94946641302337,100%,40%)" stroke="None"/>
+    <text x="315.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95APR</text>
   </g>
   <g>
-    <rect x="486" y="459.0" width="54" height="54" fill="hsl(70.47365843216382,100%,40%)" stroke="#000"/>
-    <text x="513.0" y="491.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2005</text>
+    <rect x="294" y="630.0" width="42" height="10.5" fill="hsl(36.86908699467451,100%,40%)" stroke="None"/>
+    <text x="315.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03DEC</text>
   </g>
   <g>
-    <rect x="486" y="405.0" width="54" height="54" fill="hsl(65.51222157183578,100%,40%)" stroke="#000"/>
-    <text x="513.0" y="437.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2014</text>
-  </g>
-  <text x="486" y="648.0" fill="hsl(63.15789473684211,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+20%</text>
-  <g>
-    <rect x="540" y="567.0" width="54" height="54" fill="hsl(71.36661003754143,100%,40%)" stroke="#000"/>
-    <text x="567.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2003</text>
+    <rect x="294" y="619.5" width="42" height="10.5" fill="hsl(40.476690162065935,100%,40%)" stroke="None"/>
+    <text x="315.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07MAY</text>
   </g>
   <g>
-    <rect x="540" y="513.0" width="54" height="54" fill="hsl(72.62966099147168,100%,40%)" stroke="#000"/>
-    <text x="567.0" y="545.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2004</text>
+    <rect x="294" y="609.0" width="42" height="10.5" fill="hsl(39.60179193628674,100%,40%)" stroke="None"/>
+    <text x="315.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08SEP</text>
   </g>
   <g>
-    <rect x="540" y="459.0" width="54" height="54" fill="hsl(74.66959255534863,100%,40%)" stroke="#000"/>
-    <text x="567.0" y="491.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2006</text>
+    <rect x="294" y="598.5" width="42" height="10.5" fill="hsl(40.09441857370742,100%,40%)" stroke="None"/>
+    <text x="315.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12MAY</text>
   </g>
-  <text x="540" y="648.0" fill="hsl(71.05263157894737,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+30%</text>
   <g>
-    <rect x="594" y="567.0" width="54" height="54" fill="hsl(79.49094617933963,100%,40%)" stroke="#000"/>
-    <text x="621.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2023</text>
+    <rect x="294" y="588.0" width="42" height="10.5" fill="hsl(39.68143520129549,100%,40%)" stroke="None"/>
+    <text x="315.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22FEB</text>
   </g>
-  <text x="594" y="648.0" fill="hsl(78.94736842105263,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+40%</text>
-  <text x="648" y="648.0" fill="hsl(86.8421052631579,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+50%</text>
+  <text x="294" y="666.75" fill="hsl(36.73469387755102,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-12%</text>
   <g>
-    <rect x="702" y="567.0" width="54" height="54" fill="hsl(98.68320262252594,100%,40%)" stroke="#000"/>
-    <text x="729.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2021</text>
+    <rect x="336" y="640.5" width="42" height="10.5" fill="hsl(46.77099968302508,100%,40%)" stroke="None"/>
+    <text x="357.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94DEC</text>
   </g>
-  <text x="702" y="648.0" fill="hsl(94.73684210526316,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+60%</text>
-  <text x="756" y="648.0" fill="hsl(102.63157894736842,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+70%</text>
-  <text x="810" y="648.0" fill="hsl(110.5263157894737,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+80%</text>
-  <text x="864" y="648.0" fill="hsl(118.42105263157895,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+90%</text>
   <g>
-    <rect x="918" y="567.0" width="54" height="54" fill="hsl(128.04580900748948,100%,40%)" stroke="#000"/>
-    <text x="945.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2010</text>
+    <rect x="336" y="630.0" width="42" height="10.5" fill="hsl(46.29958800848237,100%,40%)" stroke="None"/>
+    <text x="357.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95SEP</text>
   </g>
-  <text x="918" y="648.0" fill="hsl(126.31578947368422,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+100%</text>
-  <text x="972" y="648.0" fill="hsl(134.21052631578948,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+110%</text>
   <g>
-    <rect x="1026" y="567.0" width="54" height="54" fill="hsl(145.7058093747038,100%,40%)" stroke="#000"/>
-    <text x="1053.0" y="599.4" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="21">2009</text>
+    <rect x="336" y="619.5" width="42" height="10.5" fill="hsl(48.83715864727615,100%,40%)" stroke="None"/>
+    <text x="357.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96JUN</text>
   </g>
-  <text x="1026" y="648.0" fill="hsl(142.10526315789477,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+120%</text>
-  <text x="1080" y="648.0" fill="hsl(150.00000000000003,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+130%</text>
-  <text x="1134" y="648.0" fill="hsl(157.89473684210526,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="16.8">+140%</text>
   <g>
-    <text x="600.0" y="54" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="42">Colombo Stock Exchange (CSE) - All Share Index (ASPI)</text>
-    <text x="600.0" y="96" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="29.4">Performance by Year - USD adjusted</text>
+    <rect x="336" y="609.0" width="42" height="10.5" fill="hsl(46.98182816186287,100%,40%)" stroke="None"/>
+    <text x="357.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00MAR</text>
+  </g>
+  <g>
+    <rect x="336" y="598.5" width="42" height="10.5" fill="hsl(44.32331449381607,100%,40%)" stroke="None"/>
+    <text x="357.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02JAN</text>
+  </g>
+  <g>
+    <rect x="336" y="588.0" width="42" height="10.5" fill="hsl(46.21911662295331,100%,40%)" stroke="None"/>
+    <text x="357.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05NOV</text>
+  </g>
+  <g>
+    <rect x="336" y="577.5" width="42" height="10.5" fill="hsl(42.95175943703753,100%,40%)" stroke="None"/>
+    <text x="357.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08NOV</text>
+  </g>
+  <g>
+    <rect x="336" y="567.0" width="42" height="10.5" fill="hsl(47.910961401524624,100%,40%)" stroke="None"/>
+    <text x="357.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08DEC</text>
+  </g>
+  <g>
+    <rect x="336" y="556.5" width="42" height="10.5" fill="hsl(48.838616233346045,100%,40%)" stroke="None"/>
+    <text x="357.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16JAN</text>
+  </g>
+  <g>
+    <rect x="336" y="546.0" width="42" height="10.5" fill="hsl(44.535071217008834,100%,40%)" stroke="None"/>
+    <text x="357.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22JUN</text>
+  </g>
+  <text x="336" y="666.75" fill="hsl(42.85714285714286,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-10%</text>
+  <g>
+    <rect x="378" y="640.5" width="42" height="10.5" fill="hsl(54.85083749634298,100%,40%)" stroke="None"/>
+    <text x="399.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95MAY</text>
+  </g>
+  <g>
+    <rect x="378" y="630.0" width="42" height="10.5" fill="hsl(53.32771953731514,100%,40%)" stroke="None"/>
+    <text x="399.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96JUL</text>
+  </g>
+  <g>
+    <rect x="378" y="619.5" width="42" height="10.5" fill="hsl(54.509189717607356,100%,40%)" stroke="None"/>
+    <text x="399.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97OCT</text>
+  </g>
+  <g>
+    <rect x="378" y="609.0" width="42" height="10.5" fill="hsl(49.0114752218552,100%,40%)" stroke="None"/>
+    <text x="399.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97NOV</text>
+  </g>
+  <g>
+    <rect x="378" y="598.5" width="42" height="10.5" fill="hsl(53.74466870258064,100%,40%)" stroke="None"/>
+    <text x="399.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98JAN</text>
+  </g>
+  <g>
+    <rect x="378" y="588.0" width="42" height="10.5" fill="hsl(55.02283039499024,100%,40%)" stroke="None"/>
+    <text x="399.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99MAR</text>
+  </g>
+  <g>
+    <rect x="378" y="577.5" width="42" height="10.5" fill="hsl(53.28726427279773,100%,40%)" stroke="None"/>
+    <text x="399.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99OCT</text>
+  </g>
+  <g>
+    <rect x="378" y="567.0" width="42" height="10.5" fill="hsl(53.654335088399755,100%,40%)" stroke="None"/>
+    <text x="399.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07MAR</text>
+  </g>
+  <g>
+    <rect x="378" y="556.5" width="42" height="10.5" fill="hsl(52.10583146087058,100%,40%)" stroke="None"/>
+    <text x="399.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09FEB</text>
+  </g>
+  <g>
+    <rect x="378" y="546.0" width="42" height="10.5" fill="hsl(51.020816433308916,100%,40%)" stroke="None"/>
+    <text x="399.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11MAR</text>
+  </g>
+  <g>
+    <rect x="378" y="535.5" width="42" height="10.5" fill="hsl(49.03388287117863,100%,40%)" stroke="None"/>
+    <text x="399.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11JUN</text>
+  </g>
+  <g>
+    <rect x="378" y="525.0" width="42" height="10.5" fill="hsl(52.5130569236262,100%,40%)" stroke="None"/>
+    <text x="399.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11OCT</text>
+  </g>
+  <g>
+    <rect x="378" y="514.5" width="42" height="10.5" fill="hsl(54.28923786973945,100%,40%)" stroke="None"/>
+    <text x="399.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12JAN</text>
+  </g>
+  <g>
+    <rect x="378" y="504.0" width="42" height="10.5" fill="hsl(49.73381992681433,100%,40%)" stroke="None"/>
+    <text x="399.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12OCT</text>
+  </g>
+  <g>
+    <rect x="378" y="493.5" width="42" height="10.5" fill="hsl(53.305297208148545,100%,40%)" stroke="None"/>
+    <text x="399.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15MAR</text>
+  </g>
+  <g>
+    <rect x="378" y="483.0" width="42" height="10.5" fill="hsl(54.88212520957748,100%,40%)" stroke="None"/>
+    <text x="399.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23OCT</text>
+  </g>
+  <text x="378" y="666.75" fill="hsl(48.9795918367347,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-8%</text>
+  <g>
+    <rect x="420" y="640.5" width="42" height="10.5" fill="hsl(55.437226865798294,100%,40%)" stroke="None"/>
+    <text x="441.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97AUG</text>
+  </g>
+  <g>
+    <rect x="420" y="630.0" width="42" height="10.5" fill="hsl(60.321411666887876,100%,40%)" stroke="None"/>
+    <text x="441.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97SEP</text>
+  </g>
+  <g>
+    <rect x="420" y="619.5" width="42" height="10.5" fill="hsl(60.861632448057115,100%,40%)" stroke="None"/>
+    <text x="441.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99JAN</text>
+  </g>
+  <g>
+    <rect x="420" y="609.0" width="42" height="10.5" fill="hsl(57.06367387239407,100%,40%)" stroke="None"/>
+    <text x="441.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99JUN</text>
+  </g>
+  <g>
+    <rect x="420" y="598.5" width="42" height="10.5" fill="hsl(56.24652764917217,100%,40%)" stroke="None"/>
+    <text x="441.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00OCT</text>
+  </g>
+  <g>
+    <rect x="420" y="588.0" width="42" height="10.5" fill="hsl(60.54672485133518,100%,40%)" stroke="None"/>
+    <text x="441.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01MAR</text>
+  </g>
+  <g>
+    <rect x="420" y="577.5" width="42" height="10.5" fill="hsl(60.43529856210557,100%,40%)" stroke="None"/>
+    <text x="441.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02OCT</text>
+  </g>
+  <g>
+    <rect x="420" y="567.0" width="42" height="10.5" fill="hsl(56.09802954866874,100%,40%)" stroke="None"/>
+    <text x="441.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03FEB</text>
+  </g>
+  <g>
+    <rect x="420" y="556.5" width="42" height="10.5" fill="hsl(56.33518829344197,100%,40%)" stroke="None"/>
+    <text x="441.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04APR</text>
+  </g>
+  <g>
+    <rect x="420" y="546.0" width="42" height="10.5" fill="hsl(55.80329604269446,100%,40%)" stroke="None"/>
+    <text x="441.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04AUG</text>
+  </g>
+  <g>
+    <rect x="420" y="535.5" width="42" height="10.5" fill="hsl(61.04430174026209,100%,40%)" stroke="None"/>
+    <text x="441.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06JUN</text>
+  </g>
+  <g>
+    <rect x="420" y="525.0" width="42" height="10.5" fill="hsl(57.987127671222474,100%,40%)" stroke="None"/>
+    <text x="441.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07JUL</text>
+  </g>
+  <g>
+    <rect x="420" y="514.5" width="42" height="10.5" fill="hsl(59.5059705635865,100%,40%)" stroke="None"/>
+    <text x="441.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10OCT</text>
+  </g>
+  <g>
+    <rect x="420" y="504.0" width="42" height="10.5" fill="hsl(60.79045002101777,100%,40%)" stroke="None"/>
+    <text x="441.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12FEB</text>
+  </g>
+  <g>
+    <rect x="420" y="493.5" width="42" height="10.5" fill="hsl(57.45673701058135,100%,40%)" stroke="None"/>
+    <text x="441.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13JUN</text>
+  </g>
+  <g>
+    <rect x="420" y="483.0" width="42" height="10.5" fill="hsl(58.67519650471416,100%,40%)" stroke="None"/>
+    <text x="441.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14FEB</text>
+  </g>
+  <g>
+    <rect x="420" y="472.5" width="42" height="10.5" fill="hsl(60.85600063604135,100%,40%)" stroke="None"/>
+    <text x="441.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16JUN</text>
+  </g>
+  <g>
+    <rect x="420" y="462.0" width="42" height="10.5" fill="hsl(59.99106676158102,100%,40%)" stroke="None"/>
+    <text x="441.0" y="469.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19MAR</text>
+  </g>
+  <g>
+    <rect x="420" y="451.5" width="42" height="10.5" fill="hsl(55.86504361003472,100%,40%)" stroke="None"/>
+    <text x="441.0" y="459.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20FEB</text>
+  </g>
+  <g>
+    <rect x="420" y="441.0" width="42" height="10.5" fill="hsl(59.619270551987675,100%,40%)" stroke="None"/>
+    <text x="441.0" y="448.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20OCT</text>
+  </g>
+  <g>
+    <rect x="420" y="430.5" width="42" height="10.5" fill="hsl(57.63482841593507,100%,40%)" stroke="None"/>
+    <text x="441.0" y="438.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21MAR</text>
+  </g>
+  <g>
+    <rect x="420" y="420.0" width="42" height="10.5" fill="hsl(58.882992350650376,100%,40%)" stroke="None"/>
+    <text x="441.0" y="427.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23MAY</text>
+  </g>
+  <text x="420" y="666.75" fill="hsl(55.102040816326536,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-6%</text>
+  <g>
+    <rect x="462" y="640.5" width="42" height="10.5" fill="hsl(64.74492976710343,100%,40%)" stroke="None"/>
+    <text x="483.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94JUN</text>
+  </g>
+  <g>
+    <rect x="462" y="630.0" width="42" height="10.5" fill="hsl(63.15080547150831,100%,40%)" stroke="None"/>
+    <text x="483.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94OCT</text>
+  </g>
+  <g>
+    <rect x="462" y="619.5" width="42" height="10.5" fill="hsl(64.10283465488632,100%,40%)" stroke="None"/>
+    <text x="483.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95JAN</text>
+  </g>
+  <g>
+    <rect x="462" y="609.0" width="42" height="10.5" fill="hsl(62.89492674521644,100%,40%)" stroke="None"/>
+    <text x="483.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95AUG</text>
+  </g>
+  <g>
+    <rect x="462" y="598.5" width="42" height="10.5" fill="hsl(62.50016626903173,100%,40%)" stroke="None"/>
+    <text x="483.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96APR</text>
+  </g>
+  <g>
+    <rect x="462" y="588.0" width="42" height="10.5" fill="hsl(64.32222807916061,100%,40%)" stroke="None"/>
+    <text x="483.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00JAN</text>
+  </g>
+  <g>
+    <rect x="462" y="577.5" width="42" height="10.5" fill="hsl(65.73284460128151,100%,40%)" stroke="None"/>
+    <text x="483.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00FEB</text>
+  </g>
+  <g>
+    <rect x="462" y="567.0" width="42" height="10.5" fill="hsl(62.15947553684963,100%,40%)" stroke="None"/>
+    <text x="483.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00APR</text>
+  </g>
+  <g>
+    <rect x="462" y="556.5" width="42" height="10.5" fill="hsl(65.0600560941781,100%,40%)" stroke="None"/>
+    <text x="483.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00AUG</text>
+  </g>
+  <g>
+    <rect x="462" y="546.0" width="42" height="10.5" fill="hsl(66.94518525301315,100%,40%)" stroke="None"/>
+    <text x="483.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01JUL</text>
+  </g>
+  <g>
+    <rect x="462" y="535.5" width="42" height="10.5" fill="hsl(65.06344658207122,100%,40%)" stroke="None"/>
+    <text x="483.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01AUG</text>
+  </g>
+  <g>
+    <rect x="462" y="525.0" width="42" height="10.5" fill="hsl(66.67993056350006,100%,40%)" stroke="None"/>
+    <text x="483.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="514.5" width="42" height="10.5" fill="hsl(65.41936618069364,100%,40%)" stroke="None"/>
+    <text x="483.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03JAN</text>
+  </g>
+  <g>
+    <rect x="462" y="504.0" width="42" height="10.5" fill="hsl(66.4847636373406,100%,40%)" stroke="None"/>
+    <text x="483.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="493.5" width="42" height="10.5" fill="hsl(65.40598850079742,100%,40%)" stroke="None"/>
+    <text x="483.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06MAY</text>
+  </g>
+  <g>
+    <rect x="462" y="483.0" width="42" height="10.5" fill="hsl(67.02323836659465,100%,40%)" stroke="None"/>
+    <text x="483.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="472.5" width="42" height="10.5" fill="hsl(62.04125324445698,100%,40%)" stroke="None"/>
+    <text x="483.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08JAN</text>
+  </g>
+  <g>
+    <rect x="462" y="462.0" width="42" height="10.5" fill="hsl(62.404594882197166,100%,40%)" stroke="None"/>
+    <text x="483.0" y="469.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08MAY</text>
+  </g>
+  <g>
+    <rect x="462" y="451.5" width="42" height="10.5" fill="hsl(63.75879524976918,100%,40%)" stroke="None"/>
+    <text x="483.0" y="459.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08JUN</text>
+  </g>
+  <g>
+    <rect x="462" y="441.0" width="42" height="10.5" fill="hsl(66.6595972978221,100%,40%)" stroke="None"/>
+    <text x="483.0" y="448.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08AUG</text>
+  </g>
+  <g>
+    <rect x="462" y="430.5" width="42" height="10.5" fill="hsl(63.336018057924974,100%,40%)" stroke="None"/>
+    <text x="483.0" y="438.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09MAR</text>
+  </g>
+  <g>
+    <rect x="462" y="420.0" width="42" height="10.5" fill="hsl(66.93546844622905,100%,40%)" stroke="None"/>
+    <text x="483.0" y="427.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="409.5" width="42" height="10.5" fill="hsl(66.77512475002028,100%,40%)" stroke="None"/>
+    <text x="483.0" y="417.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10MAR</text>
+  </g>
+  <g>
+    <rect x="462" y="399.0" width="42" height="10.5" fill="hsl(62.31886803927183,100%,40%)" stroke="None"/>
+    <text x="483.0" y="406.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="388.5" width="42" height="10.5" fill="hsl(62.230914456487405,100%,40%)" stroke="None"/>
+    <text x="483.0" y="396.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="378.0" width="42" height="10.5" fill="hsl(64.20406158792073,100%,40%)" stroke="None"/>
+    <text x="483.0" y="385.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="367.5" width="42" height="10.5" fill="hsl(63.59057016031498,100%,40%)" stroke="None"/>
+    <text x="483.0" y="375.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13FEB</text>
+  </g>
+  <g>
+    <rect x="462" y="357.0" width="42" height="10.5" fill="hsl(63.15031170180789,100%,40%)" stroke="None"/>
+    <text x="483.0" y="364.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13AUG</text>
+  </g>
+  <g>
+    <rect x="462" y="346.5" width="42" height="10.5" fill="hsl(64.22742380331955,100%,40%)" stroke="None"/>
+    <text x="483.0" y="354.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="336.0" width="42" height="10.5" fill="hsl(66.18342350258298,100%,40%)" stroke="None"/>
+    <text x="483.0" y="343.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="325.5" width="42" height="10.5" fill="hsl(64.66643043800391,100%,40%)" stroke="None"/>
+    <text x="483.0" y="333.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15JUN</text>
+  </g>
+  <g>
+    <rect x="462" y="315.0" width="42" height="10.5" fill="hsl(62.74422815341548,100%,40%)" stroke="None"/>
+    <text x="483.0" y="322.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15SEP</text>
+  </g>
+  <g>
+    <rect x="462" y="304.5" width="42" height="10.5" fill="hsl(66.16614201181376,100%,40%)" stroke="None"/>
+    <text x="483.0" y="312.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16FEB</text>
+  </g>
+  <g>
+    <rect x="462" y="294.0" width="42" height="10.5" fill="hsl(65.4408970333448,100%,40%)" stroke="None"/>
+    <text x="483.0" y="301.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="283.5" width="42" height="10.5" fill="hsl(62.03150924570683,100%,40%)" stroke="None"/>
+    <text x="483.0" y="291.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17AUG</text>
+  </g>
+  <g>
+    <rect x="462" y="273.0" width="42" height="10.5" fill="hsl(63.87409915834503,100%,40%)" stroke="None"/>
+    <text x="483.0" y="280.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17NOV</text>
+  </g>
+  <g>
+    <rect x="462" y="262.5" width="42" height="10.5" fill="hsl(67.14904925347159,100%,40%)" stroke="None"/>
+    <text x="483.0" y="270.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18MAY</text>
+  </g>
+  <g>
+    <rect x="462" y="252.0" width="42" height="10.5" fill="hsl(63.59760173275143,100%,40%)" stroke="None"/>
+    <text x="483.0" y="259.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18JUN</text>
+  </g>
+  <g>
+    <rect x="462" y="241.5" width="42" height="10.5" fill="hsl(62.31023537167188,100%,40%)" stroke="None"/>
+    <text x="483.0" y="249.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18SEP</text>
+  </g>
+  <g>
+    <rect x="462" y="231.0" width="42" height="10.5" fill="hsl(64.56553859481004,100%,40%)" stroke="None"/>
+    <text x="483.0" y="238.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19FEB</text>
+  </g>
+  <g>
+    <rect x="462" y="220.5" width="42" height="10.5" fill="hsl(64.13264831126726,100%,40%)" stroke="None"/>
+    <text x="483.0" y="228.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19MAY</text>
+  </g>
+  <g>
+    <rect x="462" y="210.0" width="42" height="10.5" fill="hsl(65.41290504127002,100%,40%)" stroke="None"/>
+    <text x="483.0" y="217.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19SEP</text>
+  </g>
+  <g>
+    <rect x="462" y="199.5" width="42" height="10.5" fill="hsl(63.2553922058518,100%,40%)" stroke="None"/>
+    <text x="483.0" y="207.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20JAN</text>
+  </g>
+  <g>
+    <rect x="462" y="189.0" width="42" height="10.5" fill="hsl(63.00715116975204,100%,40%)" stroke="None"/>
+    <text x="483.0" y="196.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23APR</text>
+  </g>
+  <g>
+    <rect x="462" y="178.5" width="42" height="10.5" fill="hsl(66.14210883111097,100%,40%)" stroke="None"/>
+    <text x="483.0" y="186.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23AUG</text>
+  </g>
+  <text x="462" y="666.75" fill="hsl(61.224489795918366,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-4%</text>
+  <g>
+    <rect x="504" y="640.5" width="42" height="10.5" fill="hsl(72.89675759908381,100%,40%)" stroke="None"/>
+    <text x="525.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="630.0" width="42" height="10.5" fill="hsl(68.14767651132142,100%,40%)" stroke="None"/>
+    <text x="525.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94NOV</text>
+  </g>
+  <g>
+    <rect x="504" y="619.5" width="42" height="10.5" fill="hsl(71.45925568754659,100%,40%)" stroke="None"/>
+    <text x="525.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96MAY</text>
+  </g>
+  <g>
+    <rect x="504" y="609.0" width="42" height="10.5" fill="hsl(71.41013333547107,100%,40%)" stroke="None"/>
+    <text x="525.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96NOV</text>
+  </g>
+  <g>
+    <rect x="504" y="598.5" width="42" height="10.5" fill="hsl(71.88852112367798,100%,40%)" stroke="None"/>
+    <text x="525.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="588.0" width="42" height="10.5" fill="hsl(72.7802553727714,100%,40%)" stroke="None"/>
+    <text x="525.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97FEB</text>
+  </g>
+  <g>
+    <rect x="504" y="577.5" width="42" height="10.5" fill="hsl(67.68420275227098,100%,40%)" stroke="None"/>
+    <text x="525.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97MAY</text>
+  </g>
+  <g>
+    <rect x="504" y="567.0" width="42" height="10.5" fill="hsl(73.27316327757012,100%,40%)" stroke="None"/>
+    <text x="525.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98OCT</text>
+  </g>
+  <g>
+    <rect x="504" y="556.5" width="42" height="10.5" fill="hsl(71.54509787152156,100%,40%)" stroke="None"/>
+    <text x="525.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99FEB</text>
+  </g>
+  <g>
+    <rect x="504" y="546.0" width="42" height="10.5" fill="hsl(72.20934926259872,100%,40%)" stroke="None"/>
+    <text x="525.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99MAY</text>
+  </g>
+  <g>
+    <rect x="504" y="535.5" width="42" height="10.5" fill="hsl(68.2752387932707,100%,40%)" stroke="None"/>
+    <text x="525.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99AUG</text>
+  </g>
+  <g>
+    <rect x="504" y="525.0" width="42" height="10.5" fill="hsl(71.77052887165968,100%,40%)" stroke="None"/>
+    <text x="525.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="514.5" width="42" height="10.5" fill="hsl(67.90277901885445,100%,40%)" stroke="None"/>
+    <text x="525.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01JAN</text>
+  </g>
+  <g>
+    <rect x="504" y="504.0" width="42" height="10.5" fill="hsl(68.18095122500993,100%,40%)" stroke="None"/>
+    <text x="525.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01APR</text>
+  </g>
+  <g>
+    <rect x="504" y="493.5" width="42" height="10.5" fill="hsl(71.57736995958167,100%,40%)" stroke="None"/>
+    <text x="525.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01SEP</text>
+  </g>
+  <g>
+    <rect x="504" y="483.0" width="42" height="10.5" fill="hsl(73.19188747760178,100%,40%)" stroke="None"/>
+    <text x="525.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02APR</text>
+  </g>
+  <g>
+    <rect x="504" y="472.5" width="42" height="10.5" fill="hsl(68.57232364114361,100%,40%)" stroke="None"/>
+    <text x="525.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="462.0" width="42" height="10.5" fill="hsl(69.56791533777591,100%,40%)" stroke="None"/>
+    <text x="525.0" y="469.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03MAR</text>
+  </g>
+  <g>
+    <rect x="504" y="451.5" width="42" height="10.5" fill="hsl(72.56173999092154,100%,40%)" stroke="None"/>
+    <text x="525.0" y="459.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="441.0" width="42" height="10.5" fill="hsl(67.40585074138531,100%,40%)" stroke="None"/>
+    <text x="525.0" y="448.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05JUN</text>
+  </g>
+  <g>
+    <rect x="504" y="430.5" width="42" height="10.5" fill="hsl(73.34501148407567,100%,40%)" stroke="None"/>
+    <text x="525.0" y="438.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06APR</text>
+  </g>
+  <g>
+    <rect x="504" y="420.0" width="42" height="10.5" fill="hsl(67.36728279889681,100%,40%)" stroke="None"/>
+    <text x="525.0" y="427.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="409.5" width="42" height="10.5" fill="hsl(71.1772000219374,100%,40%)" stroke="None"/>
+    <text x="525.0" y="417.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="399.0" width="42" height="10.5" fill="hsl(69.20904064583551,100%,40%)" stroke="None"/>
+    <text x="525.0" y="406.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11SEP</text>
+  </g>
+  <g>
+    <rect x="504" y="388.5" width="42" height="10.5" fill="hsl(72.81414204298875,100%,40%)" stroke="None"/>
+    <text x="525.0" y="396.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="378.0" width="42" height="10.5" fill="hsl(71.34428912319292,100%,40%)" stroke="None"/>
+    <text x="525.0" y="385.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12MAR</text>
+  </g>
+  <g>
+    <rect x="504" y="367.5" width="42" height="10.5" fill="hsl(73.12350453468136,100%,40%)" stroke="None"/>
+    <text x="525.0" y="375.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12APR</text>
+  </g>
+  <g>
+    <rect x="504" y="357.0" width="42" height="10.5" fill="hsl(72.1306436712784,100%,40%)" stroke="None"/>
+    <text x="525.0" y="364.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="346.5" width="42" height="10.5" fill="hsl(69.10980549125428,100%,40%)" stroke="None"/>
+    <text x="525.0" y="354.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="336.0" width="42" height="10.5" fill="hsl(71.83866553614453,100%,40%)" stroke="None"/>
+    <text x="525.0" y="343.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13SEP</text>
+  </g>
+  <g>
+    <rect x="504" y="325.5" width="42" height="10.5" fill="hsl(68.4273739083499,100%,40%)" stroke="None"/>
+    <text x="525.0" y="333.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15JAN</text>
+  </g>
+  <g>
+    <rect x="504" y="315.0" width="42" height="10.5" fill="hsl(72.33532418927393,100%,40%)" stroke="None"/>
+    <text x="525.0" y="322.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15AUG</text>
+  </g>
+  <g>
+    <rect x="504" y="304.5" width="42" height="10.5" fill="hsl(72.98025708916128,100%,40%)" stroke="None"/>
+    <text x="525.0" y="312.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15OCT</text>
+  </g>
+  <g>
+    <rect x="504" y="294.0" width="42" height="10.5" fill="hsl(67.5979116764745,100%,40%)" stroke="None"/>
+    <text x="525.0" y="301.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15NOV</text>
+  </g>
+  <g>
+    <rect x="504" y="283.5" width="42" height="10.5" fill="hsl(72.81277687387531,100%,40%)" stroke="None"/>
+    <text x="525.0" y="291.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="273.0" width="42" height="10.5" fill="hsl(67.98397288244045,100%,40%)" stroke="None"/>
+    <text x="525.0" y="280.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16MAR</text>
+  </g>
+  <g>
+    <rect x="504" y="262.5" width="42" height="10.5" fill="hsl(67.5723644254553,100%,40%)" stroke="None"/>
+    <text x="525.0" y="270.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16OCT</text>
+  </g>
+  <g>
+    <rect x="504" y="252.0" width="42" height="10.5" fill="hsl(72.41775048763742,100%,40%)" stroke="None"/>
+    <text x="525.0" y="259.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="241.5" width="42" height="10.5" fill="hsl(68.8209497993608,100%,40%)" stroke="None"/>
+    <text x="525.0" y="249.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17JAN</text>
+  </g>
+  <g>
+    <rect x="504" y="231.0" width="42" height="10.5" fill="hsl(69.92250022461289,100%,40%)" stroke="None"/>
+    <text x="525.0" y="238.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17MAR</text>
+  </g>
+  <g>
+    <rect x="504" y="220.5" width="42" height="10.5" fill="hsl(68.48682943144846,100%,40%)" stroke="None"/>
+    <text x="525.0" y="228.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="210.0" width="42" height="10.5" fill="hsl(71.39711902613203,100%,40%)" stroke="None"/>
+    <text x="525.0" y="217.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="199.5" width="42" height="10.5" fill="hsl(70.15183864967149,100%,40%)" stroke="None"/>
+    <text x="525.0" y="207.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18MAR</text>
+  </g>
+  <g>
+    <rect x="504" y="189.0" width="42" height="10.5" fill="hsl(71.1127979479303,100%,40%)" stroke="None"/>
+    <text x="525.0" y="196.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="178.5" width="42" height="10.5" fill="hsl(70.14423789925829,100%,40%)" stroke="None"/>
+    <text x="525.0" y="186.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18AUG</text>
+  </g>
+  <g>
+    <rect x="504" y="168.0" width="42" height="10.5" fill="hsl(70.36329181417247,100%,40%)" stroke="None"/>
+    <text x="525.0" y="175.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19JAN</text>
+  </g>
+  <g>
+    <rect x="504" y="157.5" width="42" height="10.5" fill="hsl(69.23511405372193,100%,40%)" stroke="None"/>
+    <text x="525.0" y="165.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19APR</text>
+  </g>
+  <g>
+    <rect x="504" y="147.0" width="42" height="10.5" fill="hsl(70.57602952584548,100%,40%)" stroke="None"/>
+    <text x="525.0" y="154.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19AUG</text>
+  </g>
+  <g>
+    <rect x="504" y="136.5" width="42" height="10.5" fill="hsl(69.0840361946084,100%,40%)" stroke="None"/>
+    <text x="525.0" y="144.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="126.0" width="42" height="10.5" fill="hsl(71.96066330929571,100%,40%)" stroke="None"/>
+    <text x="525.0" y="133.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20JUL</text>
+  </g>
+  <g>
+    <rect x="504" y="115.5" width="42" height="10.5" fill="hsl(68.2062456283496,100%,40%)" stroke="None"/>
+    <text x="525.0" y="123.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22DEC</text>
+  </g>
+  <g>
+    <rect x="504" y="105.0" width="42" height="10.5" fill="hsl(72.34694481324122,100%,40%)" stroke="None"/>
+    <text x="525.0" y="112.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23NOV</text>
+  </g>
+  <text x="504" y="666.75" fill="hsl(67.34693877551021,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">-2%</text>
+  <g>
+    <rect x="546" y="640.5" width="42" height="10.5" fill="hsl(77.23099852242787,100%,40%)" stroke="None"/>
+    <text x="567.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="630.0" width="42" height="10.5" fill="hsl(76.53027999065257,100%,40%)" stroke="None"/>
+    <text x="567.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95JUL</text>
+  </g>
+  <g>
+    <rect x="546" y="619.5" width="42" height="10.5" fill="hsl(74.43495542452165,100%,40%)" stroke="None"/>
+    <text x="567.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95OCT</text>
+  </g>
+  <g>
+    <rect x="546" y="609.0" width="42" height="10.5" fill="hsl(74.81482638997406,100%,40%)" stroke="None"/>
+    <text x="567.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95NOV</text>
+  </g>
+  <g>
+    <rect x="546" y="598.5" width="42" height="10.5" fill="hsl(77.73901494603341,100%,40%)" stroke="None"/>
+    <text x="567.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95DEC</text>
+  </g>
+  <g>
+    <rect x="546" y="588.0" width="42" height="10.5" fill="hsl(75.27092321763472,100%,40%)" stroke="None"/>
+    <text x="567.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96JAN</text>
+  </g>
+  <g>
+    <rect x="546" y="577.5" width="42" height="10.5" fill="hsl(75.82311494953892,100%,40%)" stroke="None"/>
+    <text x="567.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96FEB</text>
+  </g>
+  <g>
+    <rect x="546" y="567.0" width="42" height="10.5" fill="hsl(73.75445167276713,100%,40%)" stroke="None"/>
+    <text x="567.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96MAR</text>
+  </g>
+  <g>
+    <rect x="546" y="556.5" width="42" height="10.5" fill="hsl(75.719152853158,100%,40%)" stroke="None"/>
+    <text x="567.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96AUG</text>
+  </g>
+  <g>
+    <rect x="546" y="546.0" width="42" height="10.5" fill="hsl(79.5426225903393,100%,40%)" stroke="None"/>
+    <text x="567.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98JUL</text>
+  </g>
+  <g>
+    <rect x="546" y="535.5" width="42" height="10.5" fill="hsl(77.43891400741128,100%,40%)" stroke="None"/>
+    <text x="567.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99SEP</text>
+  </g>
+  <g>
+    <rect x="546" y="525.0" width="42" height="10.5" fill="hsl(75.09010411173166,100%,40%)" stroke="None"/>
+    <text x="567.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="514.5" width="42" height="10.5" fill="hsl(75.42622044381801,100%,40%)" stroke="None"/>
+    <text x="567.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01FEB</text>
+  </g>
+  <g>
+    <rect x="546" y="504.0" width="42" height="10.5" fill="hsl(76.68925309905913,100%,40%)" stroke="None"/>
+    <text x="567.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="493.5" width="42" height="10.5" fill="hsl(77.6821152677656,100%,40%)" stroke="None"/>
+    <text x="567.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01JUN</text>
+  </g>
+  <g>
+    <rect x="546" y="483.0" width="42" height="10.5" fill="hsl(78.61712684874354,100%,40%)" stroke="None"/>
+    <text x="567.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02DEC</text>
+  </g>
+  <g>
+    <rect x="546" y="472.5" width="42" height="10.5" fill="hsl(76.96002941474337,100%,40%)" stroke="None"/>
+    <text x="567.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04FEB</text>
+  </g>
+  <g>
+    <rect x="546" y="462.0" width="42" height="10.5" fill="hsl(74.99651903898527,100%,40%)" stroke="None"/>
+    <text x="567.0" y="469.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04DEC</text>
+  </g>
+  <g>
+    <rect x="546" y="451.5" width="42" height="10.5" fill="hsl(74.02140932966638,100%,40%)" stroke="None"/>
+    <text x="567.0" y="459.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06AUG</text>
+  </g>
+  <g>
+    <rect x="546" y="441.0" width="42" height="10.5" fill="hsl(75.82636195910935,100%,40%)" stroke="None"/>
+    <text x="567.0" y="448.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07APR</text>
+  </g>
+  <g>
+    <rect x="546" y="430.5" width="42" height="10.5" fill="hsl(77.10783211800107,100%,40%)" stroke="None"/>
+    <text x="567.0" y="438.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07SEP</text>
+  </g>
+  <g>
+    <rect x="546" y="420.0" width="42" height="10.5" fill="hsl(75.84133295337048,100%,40%)" stroke="None"/>
+    <text x="567.0" y="427.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08MAR</text>
+  </g>
+  <g>
+    <rect x="546" y="409.5" width="42" height="10.5" fill="hsl(74.16312780360651,100%,40%)" stroke="None"/>
+    <text x="567.0" y="417.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08JUL</text>
+  </g>
+  <g>
+    <rect x="546" y="399.0" width="42" height="10.5" fill="hsl(77.45811334633763,100%,40%)" stroke="None"/>
+    <text x="567.0" y="406.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09OCT</text>
+  </g>
+  <g>
+    <rect x="546" y="388.5" width="42" height="10.5" fill="hsl(76.99767976555222,100%,40%)" stroke="None"/>
+    <text x="567.0" y="396.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="378.0" width="42" height="10.5" fill="hsl(79.0126284498289,100%,40%)" stroke="None"/>
+    <text x="567.0" y="385.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11APR</text>
+  </g>
+  <g>
+    <rect x="546" y="367.5" width="42" height="10.5" fill="hsl(76.01174984610591,100%,40%)" stroke="None"/>
+    <text x="567.0" y="375.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="357.0" width="42" height="10.5" fill="hsl(74.33176767553708,100%,40%)" stroke="None"/>
+    <text x="567.0" y="364.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11JUL</text>
+  </g>
+  <g>
+    <rect x="546" y="346.5" width="42" height="10.5" fill="hsl(74.98448014130368,100%,40%)" stroke="None"/>
+    <text x="567.0" y="354.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11AUG</text>
+  </g>
+  <g>
+    <rect x="546" y="336.0" width="42" height="10.5" fill="hsl(78.82553274988781,100%,40%)" stroke="None"/>
+    <text x="567.0" y="343.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13MAR</text>
+  </g>
+  <g>
+    <rect x="546" y="325.5" width="42" height="10.5" fill="hsl(74.706383464344,100%,40%)" stroke="None"/>
+    <text x="567.0" y="333.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14MAR</text>
+  </g>
+  <g>
+    <rect x="546" y="315.0" width="42" height="10.5" fill="hsl(75.43791648007785,100%,40%)" stroke="None"/>
+    <text x="567.0" y="322.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="304.5" width="42" height="10.5" fill="hsl(79.04799130201752,100%,40%)" stroke="None"/>
+    <text x="567.0" y="312.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14JUN</text>
+  </g>
+  <g>
+    <rect x="546" y="294.0" width="42" height="10.5" fill="hsl(76.55308903843161,100%,40%)" stroke="None"/>
+    <text x="567.0" y="301.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14OCT</text>
+  </g>
+  <g>
+    <rect x="546" y="283.5" width="42" height="10.5" fill="hsl(79.51520337010022,100%,40%)" stroke="None"/>
+    <text x="567.0" y="291.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14DEC</text>
+  </g>
+  <g>
+    <rect x="546" y="273.0" width="42" height="10.5" fill="hsl(78.61939727210364,100%,40%)" stroke="None"/>
+    <text x="567.0" y="280.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15FEB</text>
+  </g>
+  <g>
+    <rect x="546" y="262.5" width="42" height="10.5" fill="hsl(75.08473317860681,100%,40%)" stroke="None"/>
+    <text x="567.0" y="270.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="252.0" width="42" height="10.5" fill="hsl(74.89149452137555,100%,40%)" stroke="None"/>
+    <text x="567.0" y="259.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="241.5" width="42" height="10.5" fill="hsl(79.01558410657118,100%,40%)" stroke="None"/>
+    <text x="567.0" y="249.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16JUL</text>
+  </g>
+  <g>
+    <rect x="546" y="231.0" width="42" height="10.5" fill="hsl(73.55701330877531,100%,40%)" stroke="None"/>
+    <text x="567.0" y="238.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16SEP</text>
+  </g>
+  <g>
+    <rect x="546" y="220.5" width="42" height="10.5" fill="hsl(73.56273588081311,100%,40%)" stroke="None"/>
+    <text x="567.0" y="228.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17FEB</text>
+  </g>
+  <g>
+    <rect x="546" y="210.0" width="42" height="10.5" fill="hsl(76.30795248690735,100%,40%)" stroke="None"/>
+    <text x="567.0" y="217.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17MAY</text>
+  </g>
+  <g>
+    <rect x="546" y="199.5" width="42" height="10.5" fill="hsl(76.82234724104637,100%,40%)" stroke="None"/>
+    <text x="567.0" y="207.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17JUN</text>
+  </g>
+  <g>
+    <rect x="546" y="189.0" width="42" height="10.5" fill="hsl(75.69643295367881,100%,40%)" stroke="None"/>
+    <text x="567.0" y="196.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17SEP</text>
+  </g>
+  <g>
+    <rect x="546" y="178.5" width="42" height="10.5" fill="hsl(78.67842797485982,100%,40%)" stroke="None"/>
+    <text x="567.0" y="186.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18JAN</text>
+  </g>
+  <g>
+    <rect x="546" y="168.0" width="42" height="10.5" fill="hsl(77.05822635360951,100%,40%)" stroke="None"/>
+    <text x="567.0" y="175.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18FEB</text>
+  </g>
+  <g>
+    <rect x="546" y="157.5" width="42" height="10.5" fill="hsl(76.09545150001424,100%,40%)" stroke="None"/>
+    <text x="567.0" y="165.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18APR</text>
+  </g>
+  <g>
+    <rect x="546" y="147.0" width="42" height="10.5" fill="hsl(78.34317545917818,100%,40%)" stroke="None"/>
+    <text x="567.0" y="154.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18OCT</text>
+  </g>
+  <g>
+    <rect x="546" y="136.5" width="42" height="10.5" fill="hsl(75.53988150151838,100%,40%)" stroke="None"/>
+    <text x="567.0" y="144.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18NOV</text>
+  </g>
+  <g>
+    <rect x="546" y="126.0" width="42" height="10.5" fill="hsl(75.19622920898148,100%,40%)" stroke="None"/>
+    <text x="567.0" y="133.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">18DEC</text>
+  </g>
+  <g>
+    <rect x="546" y="115.5" width="42" height="10.5" fill="hsl(76.76091551814518,100%,40%)" stroke="None"/>
+    <text x="567.0" y="123.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19JUN</text>
+  </g>
+  <g>
+    <rect x="546" y="105.0" width="42" height="10.5" fill="hsl(77.05316685166316,100%,40%)" stroke="None"/>
+    <text x="567.0" y="112.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21APR</text>
+  </g>
+  <g>
+    <rect x="546" y="94.5" width="42" height="10.5" fill="hsl(75.21562690566753,100%,40%)" stroke="None"/>
+    <text x="567.0" y="102.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22NOV</text>
+  </g>
+  <g>
+    <rect x="546" y="84.0" width="42" height="10.5" fill="hsl(77.22109086373285,100%,40%)" stroke="None"/>
+    <text x="567.0" y="91.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23MAR</text>
+  </g>
+  <g>
+    <rect x="546" y="73.5" width="42" height="10.5" fill="hsl(79.56860659933791,100%,40%)" stroke="None"/>
+    <text x="567.0" y="81.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23SEP</text>
+  </g>
+  <g>
+    <rect x="546" y="63.0" width="42" height="10.5" fill="hsl(75.21066705503033,100%,40%)" stroke="None"/>
+    <text x="567.0" y="70.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23DEC</text>
+  </g>
+  <text x="546" y="666.75" fill="hsl(73.46938775510203,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">0%</text>
+  <g>
+    <rect x="588" y="640.5" width="42" height="10.5" fill="hsl(81.39121171557264,100%,40%)" stroke="None"/>
+    <text x="609.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95MAR</text>
+  </g>
+  <g>
+    <rect x="588" y="630.0" width="42" height="10.5" fill="hsl(85.06866553591948,100%,40%)" stroke="None"/>
+    <text x="609.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96SEP</text>
+  </g>
+  <g>
+    <rect x="588" y="619.5" width="42" height="10.5" fill="hsl(85.60361320970839,100%,40%)" stroke="None"/>
+    <text x="609.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">96OCT</text>
+  </g>
+  <g>
+    <rect x="588" y="609.0" width="42" height="10.5" fill="hsl(81.00261367114834,100%,40%)" stroke="None"/>
+    <text x="609.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97JAN</text>
+  </g>
+  <g>
+    <rect x="588" y="598.5" width="42" height="10.5" fill="hsl(81.45133475891566,100%,40%)" stroke="None"/>
+    <text x="609.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97MAR</text>
+  </g>
+  <g>
+    <rect x="588" y="588.0" width="42" height="10.5" fill="hsl(85.33389687235842,100%,40%)" stroke="None"/>
+    <text x="609.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97DEC</text>
+  </g>
+  <g>
+    <rect x="588" y="577.5" width="42" height="10.5" fill="hsl(80.1394869874555,100%,40%)" stroke="None"/>
+    <text x="609.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98MAR</text>
+  </g>
+  <g>
+    <rect x="588" y="567.0" width="42" height="10.5" fill="hsl(81.46693906556695,100%,40%)" stroke="None"/>
+    <text x="609.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99APR</text>
+  </g>
+  <g>
+    <rect x="588" y="556.5" width="42" height="10.5" fill="hsl(82.96266785060084,100%,40%)" stroke="None"/>
+    <text x="609.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99DEC</text>
+  </g>
+  <g>
+    <rect x="588" y="546.0" width="42" height="10.5" fill="hsl(82.80776106920263,100%,40%)" stroke="None"/>
+    <text x="609.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00DEC</text>
+  </g>
+  <g>
+    <rect x="588" y="535.5" width="42" height="10.5" fill="hsl(80.6059722780634,100%,40%)" stroke="None"/>
+    <text x="609.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02MAR</text>
+  </g>
+  <g>
+    <rect x="588" y="525.0" width="42" height="10.5" fill="hsl(85.23490672634969,100%,40%)" stroke="None"/>
+    <text x="609.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02JUN</text>
+  </g>
+  <g>
+    <rect x="588" y="514.5" width="42" height="10.5" fill="hsl(84.24133853197043,100%,40%)" stroke="None"/>
+    <text x="609.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03AUG</text>
+  </g>
+  <g>
+    <rect x="588" y="504.0" width="42" height="10.5" fill="hsl(82.57010592753305,100%,40%)" stroke="None"/>
+    <text x="609.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04JUN</text>
+  </g>
+  <g>
+    <rect x="588" y="493.5" width="42" height="10.5" fill="hsl(85.41593723851857,100%,40%)" stroke="None"/>
+    <text x="609.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05FEB</text>
+  </g>
+  <g>
+    <rect x="588" y="483.0" width="42" height="10.5" fill="hsl(80.02683424664805,100%,40%)" stroke="None"/>
+    <text x="609.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05MAR</text>
+  </g>
+  <g>
+    <rect x="588" y="472.5" width="42" height="10.5" fill="hsl(83.78697754600725,100%,40%)" stroke="None"/>
+    <text x="609.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05OCT</text>
+  </g>
+  <g>
+    <rect x="588" y="462.0" width="42" height="10.5" fill="hsl(84.01995505561378,100%,40%)" stroke="None"/>
+    <text x="609.0" y="469.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06FEB</text>
+  </g>
+  <g>
+    <rect x="588" y="451.5" width="42" height="10.5" fill="hsl(80.61785723739533,100%,40%)" stroke="None"/>
+    <text x="609.0" y="459.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06MAR</text>
+  </g>
+  <g>
+    <rect x="588" y="441.0" width="42" height="10.5" fill="hsl(85.28937987317693,100%,40%)" stroke="None"/>
+    <text x="609.0" y="448.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06JUL</text>
+  </g>
+  <g>
+    <rect x="588" y="430.5" width="42" height="10.5" fill="hsl(82.56402853156163,100%,40%)" stroke="None"/>
+    <text x="609.0" y="438.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06OCT</text>
+  </g>
+  <g>
+    <rect x="588" y="420.0" width="42" height="10.5" fill="hsl(79.60806276858011,100%,40%)" stroke="None"/>
+    <text x="609.0" y="427.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07FEB</text>
+  </g>
+  <g>
+    <rect x="588" y="409.5" width="42" height="10.5" fill="hsl(81.26798620416947,100%,40%)" stroke="None"/>
+    <text x="609.0" y="417.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07JUN</text>
+  </g>
+  <g>
+    <rect x="588" y="399.0" width="42" height="10.5" fill="hsl(84.05909276011653,100%,40%)" stroke="None"/>
+    <text x="609.0" y="406.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07AUG</text>
+  </g>
+  <g>
+    <rect x="588" y="388.5" width="42" height="10.5" fill="hsl(80.48718341292131,100%,40%)" stroke="None"/>
+    <text x="609.0" y="396.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07OCT</text>
+  </g>
+  <g>
+    <rect x="588" y="378.0" width="42" height="10.5" fill="hsl(84.07297591355675,100%,40%)" stroke="None"/>
+    <text x="609.0" y="385.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08FEB</text>
+  </g>
+  <g>
+    <rect x="588" y="367.5" width="42" height="10.5" fill="hsl(83.37032398110219,100%,40%)" stroke="None"/>
+    <text x="609.0" y="375.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">08APR</text>
+  </g>
+  <g>
+    <rect x="588" y="357.0" width="42" height="10.5" fill="hsl(85.24405424443894,100%,40%)" stroke="None"/>
+    <text x="609.0" y="364.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09JUL</text>
+  </g>
+  <g>
+    <rect x="588" y="346.5" width="42" height="10.5" fill="hsl(83.40197463948168,100%,40%)" stroke="None"/>
+    <text x="609.0" y="354.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09AUG</text>
+  </g>
+  <g>
+    <rect x="588" y="336.0" width="42" height="10.5" fill="hsl(83.03242880405848,100%,40%)" stroke="None"/>
+    <text x="609.0" y="343.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10DEC</text>
+  </g>
+  <g>
+    <rect x="588" y="325.5" width="42" height="10.5" fill="hsl(81.90703277712589,100%,40%)" stroke="None"/>
+    <text x="609.0" y="333.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12JUN</text>
+  </g>
+  <g>
+    <rect x="588" y="315.0" width="42" height="10.5" fill="hsl(82.90260282741487,100%,40%)" stroke="None"/>
+    <text x="609.0" y="322.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13JAN</text>
+  </g>
+  <g>
+    <rect x="588" y="304.5" width="42" height="10.5" fill="hsl(85.11647316716846,100%,40%)" stroke="None"/>
+    <text x="609.0" y="312.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13APR</text>
+  </g>
+  <g>
+    <rect x="588" y="294.0" width="42" height="10.5" fill="hsl(81.46879636296653,100%,40%)" stroke="None"/>
+    <text x="609.0" y="301.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13OCT</text>
+  </g>
+  <g>
+    <rect x="588" y="283.5" width="42" height="10.5" fill="hsl(80.52015205752869,100%,40%)" stroke="None"/>
+    <text x="609.0" y="291.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13DEC</text>
+  </g>
+  <g>
+    <rect x="588" y="273.0" width="42" height="10.5" fill="hsl(83.32551108453382,100%,40%)" stroke="None"/>
+    <text x="609.0" y="280.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14AUG</text>
+  </g>
+  <g>
+    <rect x="588" y="262.5" width="42" height="10.5" fill="hsl(82.97504180802032,100%,40%)" stroke="None"/>
+    <text x="609.0" y="270.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14SEP</text>
+  </g>
+  <g>
+    <rect x="588" y="252.0" width="42" height="10.5" fill="hsl(79.89147342293529,100%,40%)" stroke="None"/>
+    <text x="609.0" y="259.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16AUG</text>
+  </g>
+  <g>
+    <rect x="588" y="241.5" width="42" height="10.5" fill="hsl(81.73218159294807,100%,40%)" stroke="None"/>
+    <text x="609.0" y="249.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17OCT</text>
+  </g>
+  <g>
+    <rect x="588" y="231.0" width="42" height="10.5" fill="hsl(84.5294714987754,100%,40%)" stroke="None"/>
+    <text x="609.0" y="238.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19NOV</text>
+  </g>
+  <g>
+    <rect x="588" y="220.5" width="42" height="10.5" fill="hsl(84.87317035523355,100%,40%)" stroke="None"/>
+    <text x="609.0" y="228.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20AUG</text>
+  </g>
+  <g>
+    <rect x="588" y="210.0" width="42" height="10.5" fill="hsl(81.99624698625976,100%,40%)" stroke="None"/>
+    <text x="609.0" y="217.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21MAY</text>
+  </g>
+  <g>
+    <rect x="588" y="199.5" width="42" height="10.5" fill="hsl(84.35354890954999,100%,40%)" stroke="None"/>
+    <text x="609.0" y="207.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21JUL</text>
+  </g>
+  <g>
+    <rect x="588" y="189.0" width="42" height="10.5" fill="hsl(84.63787340080843,100%,40%)" stroke="None"/>
+    <text x="609.0" y="196.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23FEB</text>
+  </g>
+  <text x="588" y="666.75" fill="hsl(79.59183673469389,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+2%</text>
+  <g>
+    <rect x="630" y="640.5" width="42" height="10.5" fill="hsl(88.88340396701005,100%,40%)" stroke="None"/>
+    <text x="651.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">95JUN</text>
+  </g>
+  <g>
+    <rect x="630" y="630.0" width="42" height="10.5" fill="hsl(87.18529360323288,100%,40%)" stroke="None"/>
+    <text x="651.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98FEB</text>
+  </g>
+  <g>
+    <rect x="630" y="619.5" width="42" height="10.5" fill="hsl(88.12316024457232,100%,40%)" stroke="None"/>
+    <text x="651.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98SEP</text>
+  </g>
+  <g>
+    <rect x="630" y="609.0" width="42" height="10.5" fill="hsl(85.72366698067852,100%,40%)" stroke="None"/>
+    <text x="651.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98DEC</text>
+  </g>
+  <g>
+    <rect x="630" y="598.5" width="42" height="10.5" fill="hsl(86.94495421304535,100%,40%)" stroke="None"/>
+    <text x="651.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99NOV</text>
+  </g>
+  <g>
+    <rect x="630" y="588.0" width="42" height="10.5" fill="hsl(89.61674957260605,100%,40%)" stroke="None"/>
+    <text x="651.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00SEP</text>
+  </g>
+  <g>
+    <rect x="630" y="577.5" width="42" height="10.5" fill="hsl(86.22526344194499,100%,40%)" stroke="None"/>
+    <text x="651.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03MAY</text>
+  </g>
+  <g>
+    <rect x="630" y="567.0" width="42" height="10.5" fill="hsl(88.2891810677182,100%,40%)" stroke="None"/>
+    <text x="651.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04MAR</text>
+  </g>
+  <g>
+    <rect x="630" y="556.5" width="42" height="10.5" fill="hsl(91.42665932203312,100%,40%)" stroke="None"/>
+    <text x="651.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04SEP</text>
+  </g>
+  <g>
+    <rect x="630" y="546.0" width="42" height="10.5" fill="hsl(91.10895485142957,100%,40%)" stroke="None"/>
+    <text x="651.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04OCT</text>
+  </g>
+  <g>
+    <rect x="630" y="535.5" width="42" height="10.5" fill="hsl(87.05362821887432,100%,40%)" stroke="None"/>
+    <text x="651.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05APR</text>
+  </g>
+  <g>
+    <rect x="630" y="525.0" width="42" height="10.5" fill="hsl(91.29008387824041,100%,40%)" stroke="None"/>
+    <text x="651.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05MAY</text>
+  </g>
+  <g>
+    <rect x="630" y="514.5" width="42" height="10.5" fill="hsl(88.09506696470628,100%,40%)" stroke="None"/>
+    <text x="651.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05AUG</text>
+  </g>
+  <g>
+    <rect x="630" y="504.0" width="42" height="10.5" fill="hsl(87.90249454931696,100%,40%)" stroke="None"/>
+    <text x="651.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10FEB</text>
+  </g>
+  <g>
+    <rect x="630" y="493.5" width="42" height="10.5" fill="hsl(88.00570384665475,100%,40%)" stroke="None"/>
+    <text x="651.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12AUG</text>
+  </g>
+  <g>
+    <rect x="630" y="483.0" width="42" height="10.5" fill="hsl(90.19899426693017,100%,40%)" stroke="None"/>
+    <text x="651.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12DEC</text>
+  </g>
+  <g>
+    <rect x="630" y="472.5" width="42" height="10.5" fill="hsl(90.79058803456041,100%,40%)" stroke="None"/>
+    <text x="651.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14JAN</text>
+  </g>
+  <g>
+    <rect x="630" y="462.0" width="42" height="10.5" fill="hsl(86.80854078107986,100%,40%)" stroke="None"/>
+    <text x="651.0" y="469.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14APR</text>
+  </g>
+  <g>
+    <rect x="630" y="451.5" width="42" height="10.5" fill="hsl(89.7881751065664,100%,40%)" stroke="None"/>
+    <text x="651.0" y="459.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15APR</text>
+  </g>
+  <g>
+    <rect x="630" y="441.0" width="42" height="10.5" fill="hsl(87.15582359197013,100%,40%)" stroke="None"/>
+    <text x="651.0" y="448.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">15JUL</text>
+  </g>
+  <g>
+    <rect x="630" y="430.5" width="42" height="10.5" fill="hsl(86.91693038877891,100%,40%)" stroke="None"/>
+    <text x="651.0" y="438.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19OCT</text>
+  </g>
+  <g>
+    <rect x="630" y="420.0" width="42" height="10.5" fill="hsl(90.1908066508038,100%,40%)" stroke="None"/>
+    <text x="651.0" y="427.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21JUN</text>
+  </g>
+  <g>
+    <rect x="630" y="409.5" width="42" height="10.5" fill="hsl(89.19943277390978,100%,40%)" stroke="None"/>
+    <text x="651.0" y="417.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21SEP</text>
+  </g>
+  <g>
+    <rect x="630" y="399.0" width="42" height="10.5" fill="hsl(89.56672761304299,100%,40%)" stroke="None"/>
+    <text x="651.0" y="406.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22JUL</text>
+  </g>
+  <g>
+    <rect x="630" y="388.5" width="42" height="10.5" fill="hsl(87.00530157526077,100%,40%)" stroke="None"/>
+    <text x="651.0" y="396.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23JAN</text>
+  </g>
+  <text x="630" y="666.75" fill="hsl(85.71428571428572,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+4%</text>
+  <g>
+    <rect x="672" y="640.5" width="42" height="10.5" fill="hsl(95.7630197567056,100%,40%)" stroke="None"/>
+    <text x="693.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94AUG</text>
+  </g>
+  <g>
+    <rect x="672" y="630.0" width="42" height="10.5" fill="hsl(95.81493233235298,100%,40%)" stroke="None"/>
+    <text x="693.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">00JUN</text>
+  </g>
+  <g>
+    <rect x="672" y="619.5" width="42" height="10.5" fill="hsl(93.17678951815977,100%,40%)" stroke="None"/>
+    <text x="693.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01NOV</text>
+  </g>
+  <g>
+    <rect x="672" y="609.0" width="42" height="10.5" fill="hsl(95.99231890757797,100%,40%)" stroke="None"/>
+    <text x="693.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02FEB</text>
+  </g>
+  <g>
+    <rect x="672" y="598.5" width="42" height="10.5" fill="hsl(96.51227422129047,100%,40%)" stroke="None"/>
+    <text x="693.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02AUG</text>
+  </g>
+  <g>
+    <rect x="672" y="588.0" width="42" height="10.5" fill="hsl(95.07758052538996,100%,40%)" stroke="None"/>
+    <text x="693.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04JUL</text>
+  </g>
+  <g>
+    <rect x="672" y="577.5" width="42" height="10.5" fill="hsl(97.57327627274921,100%,40%)" stroke="None"/>
+    <text x="693.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05JUL</text>
+  </g>
+  <g>
+    <rect x="672" y="567.0" width="42" height="10.5" fill="hsl(96.17140410286272,100%,40%)" stroke="None"/>
+    <text x="693.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">07JAN</text>
+  </g>
+  <g>
+    <rect x="672" y="556.5" width="42" height="10.5" fill="hsl(96.14154150994825,100%,40%)" stroke="None"/>
+    <text x="693.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10JAN</text>
+  </g>
+  <g>
+    <rect x="672" y="546.0" width="42" height="10.5" fill="hsl(94.47266549352877,100%,40%)" stroke="None"/>
+    <text x="693.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">14JUL</text>
+  </g>
+  <g>
+    <rect x="672" y="535.5" width="42" height="10.5" fill="hsl(96.24394017826356,100%,40%)" stroke="None"/>
+    <text x="693.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">16APR</text>
+  </g>
+  <g>
+    <rect x="672" y="525.0" width="42" height="10.5" fill="hsl(92.54930942720198,100%,40%)" stroke="None"/>
+    <text x="693.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20JUN</text>
+  </g>
+  <g>
+    <rect x="672" y="514.5" width="42" height="10.5" fill="hsl(96.21805428027697,100%,40%)" stroke="None"/>
+    <text x="693.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21OCT</text>
+  </g>
+  <g>
+    <rect x="672" y="504.0" width="42" height="10.5" fill="hsl(94.48703826818925,100%,40%)" stroke="None"/>
+    <text x="693.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21DEC</text>
+  </g>
+  <g>
+    <rect x="672" y="493.5" width="42" height="10.5" fill="hsl(93.10927991268866,100%,40%)" stroke="None"/>
+    <text x="693.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22JAN</text>
+  </g>
+  <g>
+    <rect x="672" y="483.0" width="42" height="10.5" fill="hsl(92.70366350494707,100%,40%)" stroke="None"/>
+    <text x="693.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22MAY</text>
+  </g>
+  <text x="672" y="666.75" fill="hsl(91.83673469387756,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+6%</text>
+  <g>
+    <rect x="714" y="640.5" width="42" height="10.5" fill="hsl(101.47751672752351,100%,40%)" stroke="None"/>
+    <text x="735.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94SEP</text>
+  </g>
+  <g>
+    <rect x="714" y="630.0" width="42" height="10.5" fill="hsl(98.61008081833445,100%,40%)" stroke="None"/>
+    <text x="735.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97JUN</text>
+  </g>
+  <g>
+    <rect x="714" y="619.5" width="42" height="10.5" fill="hsl(100.76546586073378,100%,40%)" stroke="None"/>
+    <text x="735.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97JUL</text>
+  </g>
+  <g>
+    <rect x="714" y="609.0" width="42" height="10.5" fill="hsl(103.94389476825599,100%,40%)" stroke="None"/>
+    <text x="735.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98APR</text>
+  </g>
+  <g>
+    <rect x="714" y="598.5" width="42" height="10.5" fill="hsl(102.83787178801697,100%,40%)" stroke="None"/>
+    <text x="735.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03OCT</text>
+  </g>
+  <g>
+    <rect x="714" y="588.0" width="42" height="10.5" fill="hsl(100.46474468501296,100%,40%)" stroke="None"/>
+    <text x="735.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04MAY</text>
+  </g>
+  <g>
+    <rect x="714" y="577.5" width="42" height="10.5" fill="hsl(102.68823706509458,100%,40%)" stroke="None"/>
+    <text x="735.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05JAN</text>
+  </g>
+  <g>
+    <rect x="714" y="567.0" width="42" height="10.5" fill="hsl(98.9933907262001,100%,40%)" stroke="None"/>
+    <text x="735.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06SEP</text>
+  </g>
+  <g>
+    <rect x="714" y="556.5" width="42" height="10.5" fill="hsl(103.33482406482695,100%,40%)" stroke="None"/>
+    <text x="735.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09JUN</text>
+  </g>
+  <g>
+    <rect x="714" y="546.0" width="42" height="10.5" fill="hsl(100.57506703271544,100%,40%)" stroke="None"/>
+    <text x="735.0" y="553.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10JUN</text>
+  </g>
+  <g>
+    <rect x="714" y="535.5" width="42" height="10.5" fill="hsl(102.9376133016884,100%,40%)" stroke="None"/>
+    <text x="735.0" y="543.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10AUG</text>
+  </g>
+  <g>
+    <rect x="714" y="525.0" width="42" height="10.5" fill="hsl(98.33425099081946,100%,40%)" stroke="None"/>
+    <text x="735.0" y="532.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11JAN</text>
+  </g>
+  <g>
+    <rect x="714" y="514.5" width="42" height="10.5" fill="hsl(100.0772847494282,100%,40%)" stroke="None"/>
+    <text x="735.0" y="522.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">11FEB</text>
+  </g>
+  <g>
+    <rect x="714" y="504.0" width="42" height="10.5" fill="hsl(101.22642929368948,100%,40%)" stroke="None"/>
+    <text x="735.0" y="511.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">17APR</text>
+  </g>
+  <g>
+    <rect x="714" y="493.5" width="42" height="10.5" fill="hsl(102.2264767312527,100%,40%)" stroke="None"/>
+    <text x="735.0" y="501.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20NOV</text>
+  </g>
+  <g>
+    <rect x="714" y="483.0" width="42" height="10.5" fill="hsl(98.79651926941114,100%,40%)" stroke="None"/>
+    <text x="735.0" y="490.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20DEC</text>
+  </g>
+  <g>
+    <rect x="714" y="472.5" width="42" height="10.5" fill="hsl(102.42209279225393,100%,40%)" stroke="None"/>
+    <text x="735.0" y="480.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22SEP</text>
+  </g>
+  <text x="714" y="666.75" fill="hsl(97.9591836734694,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+8%</text>
+  <g>
+    <rect x="756" y="640.5" width="42" height="10.5" fill="hsl(104.9867746399435,100%,40%)" stroke="None"/>
+    <text x="777.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">99JUL</text>
+  </g>
+  <g>
+    <rect x="756" y="630.0" width="42" height="10.5" fill="hsl(106.94843070086102,100%,40%)" stroke="None"/>
+    <text x="777.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02MAY</text>
+  </g>
+  <g>
+    <rect x="756" y="619.5" width="42" height="10.5" fill="hsl(108.8684854820201,100%,40%)" stroke="None"/>
+    <text x="777.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03APR</text>
+  </g>
+  <g>
+    <rect x="756" y="609.0" width="42" height="10.5" fill="hsl(107.98960252914664,100%,40%)" stroke="None"/>
+    <text x="777.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06JAN</text>
+  </g>
+  <g>
+    <rect x="756" y="598.5" width="42" height="10.5" fill="hsl(109.8871583599597,100%,40%)" stroke="None"/>
+    <text x="777.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10JUL</text>
+  </g>
+  <g>
+    <rect x="756" y="588.0" width="42" height="10.5" fill="hsl(105.5712158281034,100%,40%)" stroke="None"/>
+    <text x="777.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">19JUL</text>
+  </g>
+  <g>
+    <rect x="756" y="577.5" width="42" height="10.5" fill="hsl(105.04621699552462,100%,40%)" stroke="None"/>
+    <text x="777.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20MAY</text>
+  </g>
+  <g>
+    <rect x="756" y="567.0" width="42" height="10.5" fill="hsl(105.91845916192386,100%,40%)" stroke="None"/>
+    <text x="777.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21AUG</text>
+  </g>
+  <g>
+    <rect x="756" y="556.5" width="42" height="10.5" fill="hsl(105.236072432917,100%,40%)" stroke="None"/>
+    <text x="777.0" y="564.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23JUN</text>
+  </g>
+  <text x="756" y="666.75" fill="hsl(104.08163265306123,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+10%</text>
+  <g>
+    <rect x="798" y="640.5" width="42" height="10.5" fill="hsl(114.77055824987315,100%,40%)" stroke="None"/>
+    <text x="819.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">05SEP</text>
+  </g>
+  <g>
+    <rect x="798" y="630.0" width="42" height="10.5" fill="hsl(113.81755513654988,100%,40%)" stroke="None"/>
+    <text x="819.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">06NOV</text>
+  </g>
+  <g>
+    <rect x="798" y="619.5" width="42" height="10.5" fill="hsl(110.91849068846251,100%,40%)" stroke="None"/>
+    <text x="819.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09APR</text>
+  </g>
+  <g>
+    <rect x="798" y="609.0" width="42" height="10.5" fill="hsl(112.32562589586288,100%,40%)" stroke="None"/>
+    <text x="819.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09SEP</text>
+  </g>
+  <g>
+    <rect x="798" y="598.5" width="42" height="10.5" fill="hsl(111.62918301759662,100%,40%)" stroke="None"/>
+    <text x="819.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10APR</text>
+  </g>
+  <g>
+    <rect x="798" y="588.0" width="42" height="10.5" fill="hsl(110.58994641021874,100%,40%)" stroke="None"/>
+    <text x="819.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">20SEP</text>
+  </g>
+  <g>
+    <rect x="798" y="577.5" width="42" height="10.5" fill="hsl(111.95258510235591,100%,40%)" stroke="None"/>
+    <text x="819.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21NOV</text>
+  </g>
+  <text x="798" y="666.75" fill="hsl(110.20408163265307,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+12%</text>
+  <g>
+    <rect x="840" y="640.5" width="42" height="10.5" fill="hsl(116.85521005059408,100%,40%)" stroke="None"/>
+    <text x="861.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94JAN</text>
+  </g>
+  <g>
+    <rect x="840" y="630.0" width="42" height="10.5" fill="hsl(121.99631732392209,100%,40%)" stroke="None"/>
+    <text x="861.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">97APR</text>
+  </g>
+  <g>
+    <rect x="840" y="619.5" width="42" height="10.5" fill="hsl(120.35510670423032,100%,40%)" stroke="None"/>
+    <text x="861.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">98NOV</text>
+  </g>
+  <g>
+    <rect x="840" y="609.0" width="42" height="10.5" fill="hsl(120.23075533047766,100%,40%)" stroke="None"/>
+    <text x="861.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01DEC</text>
+  </g>
+  <g>
+    <rect x="840" y="598.5" width="42" height="10.5" fill="hsl(116.35709192162722,100%,40%)" stroke="None"/>
+    <text x="861.0" y="606.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">02SEP</text>
+  </g>
+  <g>
+    <rect x="840" y="588.0" width="42" height="10.5" fill="hsl(116.414322741082,100%,40%)" stroke="None"/>
+    <text x="861.0" y="595.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">04JAN</text>
+  </g>
+  <g>
+    <rect x="840" y="577.5" width="42" height="10.5" fill="hsl(119.84150703288437,100%,40%)" stroke="None"/>
+    <text x="861.0" y="585.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">12SEP</text>
+  </g>
+  <g>
+    <rect x="840" y="567.0" width="42" height="10.5" fill="hsl(116.76541084429601,100%,40%)" stroke="None"/>
+    <text x="861.0" y="574.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">13MAY</text>
+  </g>
+  <text x="840" y="666.75" fill="hsl(116.3265306122449,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+14%</text>
+  <g>
+    <rect x="882" y="640.5" width="42" height="10.5" fill="hsl(123.0812747699556,100%,40%)" stroke="None"/>
+    <text x="903.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09DEC</text>
+  </g>
+  <g>
+    <rect x="882" y="630.0" width="42" height="10.5" fill="hsl(126.46598286239278,100%,40%)" stroke="None"/>
+    <text x="903.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">22AUG</text>
+  </g>
+  <text x="882" y="666.75" fill="hsl(122.44897959183673,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+16%</text>
+  <g>
+    <rect x="924" y="640.5" width="42" height="10.5" fill="hsl(132.80381737109713,100%,40%)" stroke="None"/>
+    <text x="945.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03SEP</text>
+  </g>
+  <text x="924" y="666.75" fill="hsl(128.57142857142856,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+18%</text>
+  <g>
+    <rect x="966" y="640.5" width="42" height="10.5" fill="hsl(139.6231972572537,100%,40%)" stroke="None"/>
+    <text x="987.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">94FEB</text>
+  </g>
+  <g>
+    <rect x="966" y="630.0" width="42" height="10.5" fill="hsl(138.28175599656637,100%,40%)" stroke="None"/>
+    <text x="987.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09JAN</text>
+  </g>
+  <g>
+    <rect x="966" y="619.5" width="42" height="10.5" fill="hsl(136.32901717895675,100%,40%)" stroke="None"/>
+    <text x="987.0" y="627.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">09MAY</text>
+  </g>
+  <g>
+    <rect x="966" y="609.0" width="42" height="10.5" fill="hsl(136.48192620477218,100%,40%)" stroke="None"/>
+    <text x="987.0" y="616.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">23JUL</text>
+  </g>
+  <text x="966" y="666.75" fill="hsl(134.69387755102042,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+20%</text>
+  <g>
+    <rect x="1008" y="640.5" width="42" height="10.5" fill="hsl(141.29219852290024,100%,40%)" stroke="None"/>
+    <text x="1029.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">03JUN</text>
+  </g>
+  <g>
+    <rect x="1008" y="630.0" width="42" height="10.5" fill="hsl(145.92635493931684,100%,40%)" stroke="None"/>
+    <text x="1029.0" y="637.875" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">10SEP</text>
+  </g>
+  <text x="1008" y="666.75" fill="hsl(140.81632653061226,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+22%</text>
+  <g>
+    <rect x="1050" y="640.5" width="42" height="10.5" fill="hsl(150.57795421137234,100%,40%)" stroke="None"/>
+    <text x="1071.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">01OCT</text>
+  </g>
+  <text x="1050" y="666.75" fill="hsl(146.93877551020407,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+24%</text>
+  <g>
+    <rect x="1092" y="640.5" width="42" height="10.5" fill="hsl(157.70337527694684,100%,40%)" stroke="None"/>
+    <text x="1113.0" y="648.375" fill="#000" text-anchor="middle" font-family="monospace" font-size="9.600000000000001">21JAN</text>
+  </g>
+  <text x="1092" y="666.75" fill="hsl(153.06122448979593,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+26%</text>
+  <text x="1134" y="666.75" fill="hsl(159.18367346938777,100%,40%)" text-anchor="middle" font-family="monospace" font-size="12">+28%</text>
+  <g>
+    <text x="600.0" y="31.5" fill="#000" text-anchor="middle" font-family="monospace" font-size="24">Colombo Stock Exchange (CSE) - All Share Index (ASPI)</text>
+    <text x="600.0" y="55.5" fill="#000" text-anchor="middle" font-family="monospace" font-size="16.799999999999997">Performance by Month</text>
   </g>
 </svg>
