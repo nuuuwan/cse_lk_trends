@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+  <rect x="0" y="0" width="800" height="450" fill="#f8f8f8"/>
+  <text x="36" y="432.0" fill="hsl(0.0,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">-60%</text>
+  <g>
+    <rect x="72" y="378.0" width="36" height="36" fill="hsl(15.119179615239071,100%,40%)" stroke="#000"/>
+    <text x="90.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2008</text>
+  </g>
+  <text x="72" y="432.0" fill="hsl(7.894736842105262,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">-50%</text>
+  <g>
+    <rect x="108" y="378.0" width="36" height="36" fill="hsl(21.335114151659393,100%,40%)" stroke="#000"/>
+    <text x="126.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">1995</text>
+  </g>
+  <g>
+    <rect x="108" y="342.0" width="36" height="36" fill="hsl(23.328199978103843,100%,40%)" stroke="#000"/>
+    <text x="126.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2022</text>
+  </g>
+  <text x="108" y="432.0" fill="hsl(15.789473684210527,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">-40%</text>
+  <g>
+    <rect x="144" y="378.0" width="36" height="36" fill="hsl(30.132936994868373,100%,40%)" stroke="#000"/>
+    <text x="162.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2000</text>
+  </g>
+  <text x="144" y="432.0" fill="hsl(23.68421052631579,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">-30%</text>
+  <g>
+    <rect x="180" y="378.0" width="36" height="36" fill="hsl(35.052765444769186,100%,40%)" stroke="#000"/>
+    <text x="198.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">1998</text>
+  </g>
+  <text x="180" y="432.0" fill="hsl(31.578947368421055,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">-20%</text>
+  <g>
+    <rect x="216" y="378.0" width="36" height="36" fill="hsl(47.32683824019405,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">1994</text>
+  </g>
+  <g>
+    <rect x="216" y="342.0" width="36" height="36" fill="hsl(40.2527935955779,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">1996</text>
+  </g>
+  <g>
+    <rect x="216" y="306.0" width="36" height="36" fill="hsl(44.090512569721646,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="327.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">1999</text>
+  </g>
+  <g>
+    <rect x="216" y="270.0" width="36" height="36" fill="hsl(42.10876244373109,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="291.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2007</text>
+  </g>
+  <g>
+    <rect x="216" y="234.0" width="36" height="36" fill="hsl(40.68881461067295,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="255.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2011</text>
+  </g>
+  <g>
+    <rect x="216" y="198.0" width="36" height="36" fill="hsl(41.76018066144797,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="219.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2012</text>
+  </g>
+  <g>
+    <rect x="216" y="162.0" width="36" height="36" fill="hsl(42.9800950229014,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="183.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2015</text>
+  </g>
+  <g>
+    <rect x="216" y="126.0" width="36" height="36" fill="hsl(39.736250126811626,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="147.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2016</text>
+  </g>
+  <g>
+    <rect x="216" y="90.0" width="36" height="36" fill="hsl(43.45480459811914,100%,40%)" stroke="#000"/>
+    <text x="234.0" y="111.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2018</text>
+  </g>
+  <text x="216" y="432.0" fill="hsl(39.473684210526315,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">-10%</text>
+  <g>
+    <rect x="252" y="378.0" width="36" height="36" fill="hsl(51.14272923137188,100%,40%)" stroke="#000"/>
+    <text x="270.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2013</text>
+  </g>
+  <g>
+    <rect x="252" y="342.0" width="36" height="36" fill="hsl(49.16891457193675,100%,40%)" stroke="#000"/>
+    <text x="270.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2017</text>
+  </g>
+  <g>
+    <rect x="252" y="306.0" width="36" height="36" fill="hsl(48.384862060957765,100%,40%)" stroke="#000"/>
+    <text x="270.0" y="327.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2019</text>
+  </g>
+  <text x="252" y="432.0" fill="hsl(47.36842105263158,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">0%</text>
+  <g>
+    <rect x="288" y="378.0" width="36" height="36" fill="hsl(59.795442124348284,100%,40%)" stroke="#000"/>
+    <text x="306.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">1997</text>
+  </g>
+  <g>
+    <rect x="288" y="342.0" width="36" height="36" fill="hsl(55.60208987463018,100%,40%)" stroke="#000"/>
+    <text x="306.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2020</text>
+  </g>
+  <text x="288" y="432.0" fill="hsl(55.26315789473685,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+10%</text>
+  <g>
+    <rect x="324" y="378.0" width="36" height="36" fill="hsl(69.12742207635034,100%,40%)" stroke="#000"/>
+    <text x="342.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2005</text>
+  </g>
+  <g>
+    <rect x="324" y="342.0" width="36" height="36" fill="hsl(65.8650102904942,100%,40%)" stroke="#000"/>
+    <text x="342.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2014</text>
+  </g>
+  <g>
+    <rect x="324" y="306.0" width="36" height="36" fill="hsl(67.4966215868542,100%,40%)" stroke="#000"/>
+    <text x="342.0" y="327.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2023</text>
+  </g>
+  <text x="324" y="432.0" fill="hsl(63.15789473684211,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+20%</text>
+  <g>
+    <rect x="360" y="378.0" width="36" height="36" fill="hsl(77.94280178150676,100%,40%)" stroke="#000"/>
+    <text x="378.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2001</text>
+  </g>
+  <g>
+    <rect x="360" y="342.0" width="36" height="36" fill="hsl(71.98420442763921,100%,40%)" stroke="#000"/>
+    <text x="378.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2002</text>
+  </g>
+  <g>
+    <rect x="360" y="306.0" width="36" height="36" fill="hsl(71.31332558753834,100%,40%)" stroke="#000"/>
+    <text x="378.0" y="327.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2003</text>
+  </g>
+  <text x="360" y="432.0" fill="hsl(71.05263157894737,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+30%</text>
+  <g>
+    <rect x="396" y="378.0" width="36" height="36" fill="hsl(80.42922504309942,100%,40%)" stroke="#000"/>
+    <text x="414.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2004</text>
+  </g>
+  <g>
+    <rect x="396" y="342.0" width="36" height="36" fill="hsl(80.23149888601361,100%,40%)" stroke="#000"/>
+    <text x="414.0" y="363.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2006</text>
+  </g>
+  <text x="396" y="432.0" fill="hsl(78.94736842105263,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+40%</text>
+  <text x="432" y="432.0" fill="hsl(86.8421052631579,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+50%</text>
+  <text x="468" y="432.0" fill="hsl(94.73684210526316,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+60%</text>
+  <g>
+    <rect x="504" y="378.0" width="36" height="36" fill="hsl(110.41379946310853,100%,40%)" stroke="#000"/>
+    <text x="522.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2021</text>
+  </g>
+  <text x="504" y="432.0" fill="hsl(102.63157894736842,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+70%</text>
+  <text x="540" y="432.0" fill="hsl(110.5263157894737,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+80%</text>
+  <g>
+    <rect x="576" y="378.0" width="36" height="36" fill="hsl(123.15734442821847,100%,40%)" stroke="#000"/>
+    <text x="594.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2010</text>
+  </g>
+  <text x="576" y="432.0" fill="hsl(118.42105263157895,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+90%</text>
+  <text x="612" y="432.0" fill="hsl(126.31578947368422,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+100%</text>
+  <text x="648" y="432.0" fill="hsl(134.21052631578948,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+110%</text>
+  <g>
+    <rect x="684" y="378.0" width="36" height="36" fill="hsl(146.24986605914128,100%,40%)" stroke="#000"/>
+    <text x="702.0" y="399.6" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="14">2009</text>
+  </g>
+  <text x="684" y="432.0" fill="hsl(142.10526315789477,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+120%</text>
+  <text x="720" y="432.0" fill="hsl(150.00000000000003,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+130%</text>
+  <text x="756" y="432.0" fill="hsl(157.89473684210526,100%,40%)" text-anchor="middle" font-family="P22 Johnston Underground" font-size="11.200000000000001">+140%</text>
+  <g>
+    <text x="400.0" y="36" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="28">Colombo Stock Exchange (CSE) - All Share Index (ASPI)</text>
+    <text x="400.0" y="64" fill="#000" text-anchor="middle" font-family="P22 Johnston Underground" font-size="19.599999999999998">Performance by Year</text>
+  </g>
+</svg>
